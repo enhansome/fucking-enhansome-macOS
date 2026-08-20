@@ -1,1714 +1,1844 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "19237⭐ 776🍴 BackgroundMusic",
+              "description": ") - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52422583,
+                "language": "C++",
+                "last_commit": "2026-06-10T08:58:49Z",
+                "owner": "kyleneideck",
+                "repo": "BackgroundMusic",
+                "stars": 19237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Plug",
+              "description": "Discover and listen to music from Hype Machine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267408982,
+                "language": "Swift",
+                "last_commit": "2024-02-20T07:31:19Z",
+                "owner": "wulkano",
+                "repo": "Plug",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Fader",
+              "description": "Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1259340424,
+                "language": "Swift",
+                "last_commit": "2026-08-11T19:24:05Z",
+                "owner": "pantafive",
+                "repo": "fader",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌎 Telegram",
+              "description": "A messaging app with a focus on speed and security, it’s super fast, simple and free.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106401357,
+                "language": "Swift",
+                "last_commit": "2025-09-22T14:19:15Z",
+                "owner": "overtake",
+                "repo": "TelegramSwift",
+                "stars": 5750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Textual",
+              "description": "An Internet Relay Chat (IRC) client.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 792833,
+                "language": "Objective-C",
+                "last_commit": "2026-07-03T03:35:56Z",
+                "owner": "Codeux-Software",
+                "repo": "Textual",
+                "stars": 1910
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1901⭐ 185🍴 ChitChat",
+              "description": ") - A native Mac app wrapper for WhatsApp Web.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35981025,
+                "language": "Objective-C",
+                "last_commit": "2019-10-07T19:49:44Z",
+                "owner": "stonesam92",
+                "repo": "ChitChat",
+                "stars": 1902
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chat Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitUp",
+              "description": "A simple but powerful Git macOS app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40638363,
+                "language": "Objective-C",
+                "last_commit": "2026-07-27T00:05:17Z",
+                "owner": "git-up",
+                "repo": "GitUp",
+                "stars": 12101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 ImageOptim",
+              "description": "Makes images take up less disk space and load faster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7985525,
+                "language": "HTML",
+                "last_commit": "2026-07-13T18:27:49Z",
+                "owner": "ImageOptim",
+                "repo": "ImageOptim",
+                "stars": 9960
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sequel Pro",
+              "description": "A MySQL database manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14224695,
+                "language": "Objective-C",
+                "last_commit": "2023-02-25T08:11:30Z",
+                "owner": "sequelpro",
+                "repo": "sequelpro",
+                "stars": 9196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8760⭐ 769🍴 WWDC",
+              "description": ") - The WWDC app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34222505,
+                "language": "Swift",
+                "last_commit": "2026-06-17T20:11:54Z",
+                "owner": "insidegui",
+                "repo": "WWDC",
+                "stars": 8760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8493⭐ 379🍴 Xcodes",
+              "description": ") - Install and switch between multiple versions of Xcode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315822591,
+                "language": "Swift",
+                "last_commit": "2026-07-08T03:51:59Z",
+                "owner": "XcodesOrg",
+                "repo": "XcodesApp",
+                "stars": 8494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Postgres.app",
+              "description": "The easiest way to get started with PostgreSQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3946572,
+                "language": "Makefile",
+                "last_commit": "2026-08-17T08:16:46Z",
+                "owner": "PostgresApp",
+                "repo": "PostgresApp",
+                "stars": 7769
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7502⭐ 329🍴 Sequel Ace",
+              "description": ") - A MySQL & MariaDB database manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271553915,
+                "language": "Objective-C",
+                "last_commit": "2026-08-19T10:08:09Z",
+                "owner": "Sequel-Ace",
+                "repo": "Sequel-Ace",
+                "stars": 7510
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6303⭐ 662🍴 Pusher",
+              "description": ") - A free tool to do sandbox push notifications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5741345,
+                "language": "Objective-C",
+                "last_commit": "2021-03-30T07:00:58Z",
+                "owner": "noodlewerk",
+                "repo": "NWPusher",
+                "stars": 6303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 TablePro",
+              "description": "A native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1117891044,
+                "language": "Swift",
+                "last_commit": "2026-08-20T02:53:40Z",
+                "owner": "TableProApp",
+                "repo": "TablePro",
+                "stars": 5508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5222⭐ 431🍴 Knuff",
+              "description": ") - The debug application for Apple Push Notification Service (APNs).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2567806,
+                "language": "Objective-C",
+                "last_commit": "2022-09-04T18:39:25Z",
+                "owner": "KnuffApp",
+                "repo": "Knuff",
+                "stars": 5222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Cork",
+              "description": "A fast, intuitive Homebrew GUI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510067764,
+                "language": "Swift",
+                "last_commit": "2026-08-20T00:24:45Z",
+                "owner": "buresdv",
+                "repo": "Cork",
+                "stars": 4624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3854⭐ 258🍴 Gas Mask",
+              "description": ") - A simple hosts file manager which allows editing of host files and switching between them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12413949,
+                "language": "Objective-C",
+                "last_commit": "2026-03-01T18:09:56Z",
+                "owner": "2ndalpha",
+                "repo": "gasmask",
+                "stars": 3854
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 CocoaRestClient",
+              "description": "An app for testing REST endpoints.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3545128,
+                "language": "Objective-C",
+                "last_commit": "2024-10-14T00:29:42Z",
+                "owner": "mmattozzi",
+                "repo": "cocoa-rest-client",
+                "stars": 2368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 GitX-dev",
+              "description": "A fork (variant) of GitX, maintained and enhanced with productivity oriented changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890597,
+                "language": "Objective-C",
+                "last_commit": "2022-06-07T05:57:19Z",
+                "owner": "rowanj",
+                "repo": "gitx",
+                "stars": 2131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1935⭐ 87🍴 Touch Bar Simulator",
+              "description": ") - The macOS Touch Bar Simulator as a standalone app.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 85107118,
+                "language": "Swift",
+                "last_commit": "2024-03-06T16:54:05Z",
+                "owner": "sindresorhus",
+                "repo": "touch-bar-simulator",
+                "stars": 1935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vagrant Manager",
+              "description": "Manage your vagrant machines in one place with Vagrant Manager for macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18744882,
+                "language": "Objective-C",
+                "last_commit": "2020-05-31T13:19:46Z",
+                "owner": "lanayotech",
+                "repo": "vagrant-manager",
+                "stars": 1864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1633⭐ 122🍴 Hosts",
+              "description": ") - Edit hosts file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2207172,
+                "language": "Objective-C",
+                "last_commit": "2020-09-25T18:42:53Z",
+                "owner": "specialunderwear",
+                "repo": "Hosts.prefpane",
+                "stars": 1633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Unused",
+              "description": "An app for checking Xcode projects for unused resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4443180,
+                "language": "Objective-C",
+                "last_commit": "2018-06-19T06:47:57Z",
+                "owner": "jeffhodnett",
+                "repo": "Unused",
+                "stars": 1369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Trailer",
+              "description": "Configurable menubar Git notifications with accompanying native iOS app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12969529,
+                "language": "Swift",
+                "last_commit": "2026-07-27T06:47:32Z",
+                "owner": "ptsochantaris",
+                "repo": "trailer",
+                "stars": 1212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Rockxy",
+              "description": "A native HTTP debugging proxy to capture, inspect, and modify HTTP/HTTPS, WebSocket, and GraphQL traffic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192753899,
+                "language": "Swift",
+                "last_commit": "2026-08-20T01:39:55Z",
+                "owner": "RockxyApp",
+                "repo": "Rockxy",
+                "stars": 971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Pasteboard Viewer",
+              "description": "Inspect the system pasteboards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241314521,
+                "language": "Swift",
+                "last_commit": "2026-03-30T18:29:06Z",
+                "owner": "sindresorhus",
+                "repo": "Pasteboard-Viewer",
+                "stars": 847
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "778⭐ 82🍴 QorumLogs",
+              "description": ") - Swift Logging Utility for Xcode & Google Docs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42173289,
+                "language": "Swift",
+                "last_commit": "2018-04-25T21:41:34Z",
+                "owner": "Esqarrouth",
+                "repo": "QorumLogs",
+                "stars": 778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "524⭐ 28🍴 Pods Updater",
+              "description": ") - A macOS app which helps you manage dependency releases in your Podfile.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119410226,
+                "language": "Swift",
+                "last_commit": "2019-03-17T10:57:51Z",
+                "owner": "kizitonwose",
+                "repo": "PodsUpdater",
+                "stars": 524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 ImageAlpha",
+              "description": "Apply lossy compression on PNG files with or without transparency for more efficient files.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 7139212,
+                "language": "Python",
+                "last_commit": "2019-07-04T11:02:20Z",
+                "owner": "kornelski",
+                "repo": "ImageAlpha",
+                "stars": 480
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "363⭐ 17🍴 gitbar",
+              "description": ") - Open source github contribution stats on your Menu Bar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51781342,
+                "language": "JavaScript",
+                "last_commit": "2017-09-15T03:28:01Z",
+                "owner": "Shikkic",
+                "repo": "gitbar",
+                "stars": 363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "215⭐ 8🍴 SSH Keys Manager",
+              "description": ") - Native macOS app for managing SSH keys and SSH config entries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1221607599,
+                "language": "Swift",
+                "last_commit": "2026-07-03T03:57:49Z",
+                "owner": "Stmol",
+                "repo": "ssh-keys-manager-macos-app",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "150⭐ 11🍴 Iconology",
+              "description": ") - Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119904101,
+                "language": "Swift",
+                "last_commit": "2023-01-31T19:56:18Z",
+                "owner": "liamrosenfeld",
+                "repo": "Iconology",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "92⭐ 1🍴 TopOff",
+              "description": ") - Menu bar app for Homebrew — full beer mug when packages are fresh, half mug when it's time to refill.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141992820,
+                "language": "Swift",
+                "last_commit": "2026-07-18T02:42:29Z",
+                "owner": "ihazgithub",
+                "repo": "TopOff",
+                "stars": 93
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Developers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌎 TextMate",
+              "description": "A graphical text editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5344375,
+                "language": "Objective-C++",
+                "last_commit": "2024-05-18T11:00:21Z",
+                "owner": "textmate",
+                "repo": "textmate",
+                "stars": 14566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 CotEditor",
+              "description": "Lightweight plain-text editor for macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9243402,
+                "language": "Swift",
+                "last_commit": "2026-08-19T13:31:03Z",
+                "owner": "coteditor",
+                "repo": "CotEditor",
+                "stars": 8385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7875⭐ 694🍴 MacVim",
+              "description": ") - Vim, the text editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5641441,
+                "language": "Vim Script",
+                "last_commit": "2026-07-30T16:55:46Z",
+                "owner": "macvim-dev",
+                "repo": "macvim",
+                "stars": 7875
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VimR",
+              "description": "Vim, refined.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17300388,
+                "language": "Swift",
+                "last_commit": "2026-07-26T13:24:42Z",
+                "owner": "qvacua",
+                "repo": "vimr",
+                "stars": 6985
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Itsypad",
+              "description": "Lightweight scratchpad with syntax highlighting for 185+ languages and clipboard history manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1152447423,
+                "language": "Swift",
+                "last_commit": "2026-08-15T16:25:29Z",
+                "owner": "nickustinov",
+                "repo": "itsypad-macos",
+                "stars": 416
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenEmu",
+              "description": "Multiple Video Game System.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185279,
+                "language": "Swift",
+                "last_commit": "2025-10-22T21:39:10Z",
+                "owner": "OpenEmu",
+                "repo": "OpenEmu",
+                "stars": 17721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Dolphin",
+              "description": "A powerful, Open Source emulator for Nintendo GameCube and Wii games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11577304,
+                "language": "C++",
+                "last_commit": "2026-08-19T21:26:06Z",
+                "owner": "dolphin-emu",
+                "repo": "dolphin",
+                "stars": 15414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Screentendo",
+              "description": "Turn your screen into a playable level of Mario.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33459069,
+                "language": "Objective-C",
+                "last_commit": "2015-05-26T14:14:54Z",
+                "owner": "AaronRandall",
+                "repo": "Screentendo",
+                "stars": 1096
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Boxer",
+              "description": "The DOS game emulator that’s fit for your Mac.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2582805,
+                "language": "Objective-C",
+                "last_commit": "2021-10-24T17:17:53Z",
+                "owner": "alinebee",
+                "repo": "Boxer",
+                "stars": 790
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stockfish",
+              "description": "Beautiful, powerful chess application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15819163,
+                "language": "C++",
+                "last_commit": "2024-11-08T06:16:55Z",
+                "owner": "daylen",
+                "repo": "stockfish-mac",
+                "stars": 537
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sketch Toolbox",
+              "description": "A super simple plugin manager for Sketch.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19968235,
+                "language": "Objective-C",
+                "last_commit": "2018-10-11T15:27:41Z",
+                "owner": "buzzfeed",
+                "repo": "Sketch-Toolbox",
+                "stars": 2098
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 macSVG",
+              "description": "Design and edit SVG content for web, mobile, and animation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71117099,
+                "language": "Objective-C",
+                "last_commit": "2022-07-17T04:46:15Z",
+                "owner": "dsward2",
+                "repo": "macSVG",
+                "stars": 1290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "967⭐ 48🍴 GifCapture",
+              "description": ") - Record GIF screencasts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83611428,
+                "language": "Swift",
+                "last_commit": "2021-04-11T10:59:39Z",
+                "owner": "onmyway133",
+                "repo": "GifCapture",
+                "stars": 967
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌎 NetNewsWire",
+              "description": "A classic RSS reader reacquired by its original author and rewritten for modern macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91977145,
+                "language": "Swift",
+                "last_commit": "2026-08-19T17:26:07Z",
+                "owner": "Ranchero-Software",
+                "repo": "NetNewsWire",
+                "stars": 10302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vienna",
+              "description": "RSS/Atom newsreader.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2285190,
+                "language": "Objective-C",
+                "last_commit": "2026-08-16T12:31:22Z",
+                "owner": "ViennaRSS",
+                "repo": "vienna-rss",
+                "stars": 1972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 hacker-menu",
+              "description": "Hacker News Delivered to Desktop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40905410,
+                "language": "JavaScript",
+                "last_commit": "2018-10-10T22:14:31Z",
+                "owner": "owenthereal",
+                "repo": "hacker-menu",
+                "stars": 1001
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "News Readers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌎 NoteGen",
+              "description": "Local-first Markdown notes app with capture, editing, file management, canvas, and optional sync.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 838659679,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:20:32Z",
+                "owner": "codexu",
+                "repo": "note-gen",
+                "stars": 12662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 MeetingBar",
+              "description": "Your meetings in MacOS status bar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262013713,
+                "language": "Swift",
+                "last_commit": "2026-08-17T12:40:50Z",
+                "owner": "leits",
+                "repo": "MeetingBar",
+                "stars": 5309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 SelfControl",
+              "description": "Block access to distracting websites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159643,
+                "language": "Objective-C",
+                "last_commit": "2026-06-26T17:11:53Z",
+                "owner": "SelfControlApp",
+                "repo": "selfcontrol",
+                "stars": 4385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 ItsyCal",
+              "description": "A tiny menubar calendar to display your Mac Calendar app events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50525082,
+                "language": "Objective-C",
+                "last_commit": "2026-04-05T05:43:53Z",
+                "owner": "sfsam",
+                "repo": "Itsycal",
+                "stars": 3981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Karabiner",
+              "description": "A powerful keyboard customizer.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1625491,
+                "language": "C++",
+                "last_commit": "2020-03-01T01:26:15Z",
+                "owner": "pqrs-org",
+                "repo": "Karabiner-archived",
+                "stars": 3784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Quicksilver",
+              "description": "Control your Mac quickly and elegantly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 358078,
+                "language": "Objective-C",
+                "last_commit": "2026-06-26T14:53:30Z",
+                "owner": "quicksilver",
+                "repo": "Quicksilver",
+                "stars": 2923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telephone",
+              "description": "A SIP softphone. Make phone calls over the Internet or your company’s network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1258928,
+                "language": "Swift",
+                "last_commit": "2026-07-12T14:12:10Z",
+                "owner": "64characters",
+                "repo": "Telephone",
+                "stars": 1161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClipMenu",
+              "description": "ClipBoard History Manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18004805,
+                "language": "Objective-C",
+                "last_commit": "2020-08-02T06:09:05Z",
+                "owner": "naotaka",
+                "repo": "ClipMenu",
+                "stars": 932
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "339⭐ 27🍴 PDF Archiver",
+              "description": ") - A nice tool for tagging and archiving tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119609777,
+                "language": "Swift",
+                "last_commit": "2026-08-19T01:49:39Z",
+                "owner": "PDF-Archiver",
+                "repo": "PDF-Archiver",
+                "stars": 339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Keyty",
+              "description": "Keystroke and mouse-click visualizer for demos, screen recordings, presentations, and livestreams.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1296838287,
+                "language": "Swift",
+                "last_commit": "2026-08-19T18:04:07Z",
+                "owner": "keytyapp",
+                "repo": "Keyty",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 ScreenTranslate",
+              "description": "Capture any area or select text to translate instantly, fully on-device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1170906623,
+                "language": "Swift",
+                "last_commit": "2026-08-19T03:38:35Z",
+                "owner": "hcmhcs",
+                "repo": "screenTranslate",
+                "stars": 59
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Productivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌎 Transmission",
+              "description": "Simple, lightweight, multi-platform torrent client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35129809,
+                "language": "C++",
+                "last_commit": "2026-08-20T00:19:51Z",
+                "owner": "transmission",
+                "repo": "transmission",
+                "stars": 15117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "957⭐ 97🍴 mac2imgur",
+              "description": ") - Upload images and screenshots to Imgur.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13518840,
+                "language": "Swift",
+                "last_commit": "2019-02-16T11:38:24Z",
+                "owner": "mileswd",
+                "repo": "mac2imgur",
+                "stars": 957
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sharing Files"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "33988⭐ 990🍴 MonitorControl",
+              "description": ") - Control your display's brightness and volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103784142,
+                "language": "Swift",
+                "last_commit": "2026-08-11T12:43:28Z",
+                "owner": "MonitorControl",
+                "repo": "MonitorControl",
+                "stars": 33997
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "18064⭐ 655🍴 BitBar",
+              "description": ") - Display output of any script to the menu bar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14376285,
+                "language": "Go",
+                "last_commit": "2024-09-10T10:18:51Z",
+                "owner": "matryer",
+                "repo": "xbar",
+                "stars": 18064
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15308⭐ 945🍴 Mackup",
+              "description": ") - Keep your application settings in sync.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9265294,
+                "language": "Python",
+                "last_commit": "2026-06-15T00:33:53Z",
+                "owner": "lra",
+                "repo": "mackup",
+                "stars": 15309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "10379⭐ 935🍴 Boring Notch",
+              "description": ") - Turns your MacBook notch into a dynamic hub with media controls, calendar integration, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 837073921,
+                "language": "Swift",
+                "last_commit": "2026-08-20T01:24:22Z",
+                "owner": "TheBoredTeam",
+                "repo": "boring.notch",
+                "stars": 10407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MacDown",
+              "description": "Markdown editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21089071,
+                "language": "Rich Text Format",
+                "last_commit": "2023-07-10T22:19:38Z",
+                "owner": "MacDownApp",
+                "repo": "macdown",
+                "stars": 9818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8717⭐ 299🍴 Dozer",
+              "description": ") - Hide MacOS menubar items.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150961965,
+                "language": "Swift",
+                "last_commit": "2023-11-30T13:45:27Z",
+                "owner": "Mortennn",
+                "repo": "Dozer",
+                "stars": 8714
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 MacPass",
+              "description": "Password Manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5129986,
+                "language": "Objective-C",
+                "last_commit": "2025-05-07T13:16:04Z",
+                "owner": "MacPass",
+                "repo": "MacPass",
+                "stars": 6853
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6838⭐ 264🍴 KeepingYouAwake",
+              "description": ") - Menu bar utility that prevents Mac from going to sleep.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25431634,
+                "language": "Objective-C",
+                "last_commit": "2026-08-15T11:38:08Z",
+                "owner": "newmarcel",
+                "repo": "KeepingYouAwake",
+                "stars": 6846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6037⭐ 158🍴 AnyBar",
+              "description": ") - A menubar status indicator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31558536,
+                "language": "Objective-C",
+                "last_commit": "2026-03-21T12:54:03Z",
+                "owner": "tonsky",
+                "repo": "AnyBar",
+                "stars": 6037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5818⭐ 321🍴 PureMac",
+              "description": ") - Free and open-source macOS cleaner that removes system caches, Xcode junk, Homebrew cache, and more with no telemetry or network calls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1204908370,
+                "language": "Swift",
+                "last_commit": "2026-08-17T22:48:27Z",
+                "owner": "momenbasel",
+                "repo": "PureMac",
+                "stars": 5934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5543⭐ 360🍴 ShiftIt",
+              "description": ") - Managing windows size and position.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 959084,
+                "language": "Objective-C",
+                "last_commit": "2023-11-20T10:24:52Z",
+                "owner": "fikovnik",
+                "repo": "ShiftIt",
+                "stars": 5543
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Finicky",
+              "description": "App that allows you to set rules that decide which browser is opened for every link.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37319088,
+                "language": "Go",
+                "last_commit": "2026-07-01T21:45:31Z",
+                "owner": "johnste",
+                "repo": "finicky",
+                "stars": 5028
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Übersicht",
+              "description": "Run system commands and display their output on your desktop as widgets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18486162,
+                "language": "Objective-C",
+                "last_commit": "2025-06-28T08:25:38Z",
+                "owner": "felixhageloh",
+                "repo": "uebersicht",
+                "stars": 4978
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4229⭐ 402🍴 RDM",
+              "description": ") - Easily set Mac Retina display to higher unsupported resolutions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 33700453,
+                "language": "Objective-C++",
+                "last_commit": "2023-11-29T00:54:59Z",
+                "owner": "avibrazil",
+                "repo": "RDM",
+                "stars": 4228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3594⭐ 246🍴 Helium",
+              "description": ") - A floating browser window that allows you to watch media while you work.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 33659097,
+                "language": "Swift",
+                "last_commit": "2022-02-05T22:22:45Z",
+                "owner": "JadenGeller",
+                "repo": "Helium",
+                "stars": 3594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3497⭐ 73🍴 Wineskin",
+              "description": ") - Run Windows applications and games on your Mac.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 836956455,
+                "language": null,
+                "last_commit": "2026-08-04T21:47:10Z",
+                "owner": "Sikarugir-App",
+                "repo": "Sikarugir",
+                "stars": 3508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MenuMeters",
+              "description": "A set of CPU, memory, disk, and network monitoring tools for macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39981907,
+                "language": "Objective-C",
+                "last_commit": "2024-05-20T02:06:13Z",
+                "owner": "yujitach",
+                "repo": "MenuMeters",
+                "stars": 3074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2844⭐ 267🍴 BeardedSpice",
+              "description": ") - Control web based media players with the media keys found on Mac keyboards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15920678,
+                "language": "Objective-C",
+                "last_commit": "2021-05-12T15:48:39Z",
+                "owner": "beardedspice",
+                "repo": "beardedspice",
+                "stars": 2844
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notational Velocity",
+              "description": "Store, retrieve and sync notes within a minimal GUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299333,
+                "language": "Objective-C",
+                "last_commit": "2021-06-19T18:57:02Z",
+                "owner": "scrod",
+                "repo": "nv",
+                "stars": 2104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Equinox",
+              "description": "Create macOS dynamic wallpapers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420566979,
+                "language": "Swift",
+                "last_commit": "2026-06-11T22:35:25Z",
+                "owner": "rlxone",
+                "repo": "Equinox",
+                "stars": 2049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ControlPlane",
+              "description": "Automate running tasks based on where you are or what you do.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2039783,
+                "language": "Swift",
+                "last_commit": "2026-07-25T23:20:43Z",
+                "owner": "dustinrue",
+                "repo": "ControlPlane",
+                "stars": 1810
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 gfxCardStatus",
+              "description": "Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655841,
+                "language": "Objective-C",
+                "last_commit": "2021-07-10T03:16:34Z",
+                "owner": "codykrieger",
+                "repo": "gfxCardStatus",
+                "stars": 1714
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1541⭐ 110🍴 Kawa",
+              "description": ") - A better input source switcher with shortcuts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39732057,
+                "language": "Swift",
+                "last_commit": "2022-08-20T18:41:17Z",
+                "owner": "hatashiro",
+                "repo": "kawa",
+                "stars": 1541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Strongbox",
+              "description": "Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63485719,
+                "language": "Objective-C",
+                "last_commit": "2026-07-17T14:03:41Z",
+                "owner": "strongbox-password-safe",
+                "repo": "Strongbox",
+                "stars": 1452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1444⭐ 50🍴 Gray",
+              "description": ") - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150534173,
+                "language": "Swift",
+                "last_commit": "2022-07-22T02:40:23Z",
+                "owner": "zenangst",
+                "repo": "Gray",
+                "stars": 1444
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fanny",
+              "description": "Notification Center widget and menu bar application to monitor your Mac's fans and CPU temperature.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50939379,
+                "language": "Swift",
+                "last_commit": "2020-05-02T20:12:28Z",
+                "owner": "DanielStormApps",
+                "repo": "Fanny",
+                "stars": 1382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1368⭐ 150🍴 DisableMonitor",
+              "description": ") - Easily disable or enable a monitor on your Mac.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 18836079,
+                "language": null,
+                "last_commit": "2018-01-26T09:02:18Z",
+                "owner": "Eun",
+                "repo": "DisableMonitor",
+                "stars": 1368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1229⭐ 58🍴 SlowQuitApps",
+              "description": ") - Prevent accidental Cmd-Q.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20792130,
+                "language": "Objective-C",
+                "last_commit": "2020-12-28T07:08:21Z",
+                "owner": "dteoh",
+                "repo": "SlowQuitApps",
+                "stars": 1229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Itsyhome",
+              "description": "Control HomeKit and Home Assistant smart home devices from the menu bar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1138336035,
+                "language": "Swift",
+                "last_commit": "2026-08-10T09:38:51Z",
+                "owner": "nickustinov",
+                "repo": "itsyhome-macos",
+                "stars": 981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Noti",
+              "description": "Receive Android notifications on your mac (with PushBullet).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 62576355,
+                "language": "Swift",
+                "last_commit": "2022-07-05T17:02:40Z",
+                "owner": "jariz",
+                "repo": "Noti",
+                "stars": 910
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Loading",
+              "description": "See when apps are using your network in your Mac menubar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34942102,
+                "language": "Objective-C",
+                "last_commit": "2020-11-17T20:54:52Z",
+                "owner": "BonzaiThePenguin",
+                "repo": "Loading",
+                "stars": 621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Itsytv",
+              "description": "Control your Apple TV from the menu bar with remote, now playing widget, and app launcher.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1148084013,
+                "language": "Swift",
+                "last_commit": "2026-07-18T08:12:19Z",
+                "owner": "nickustinov",
+                "repo": "itsytv-macos",
+                "stars": 617
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "329⭐ 26🍴 APNGb",
+              "description": ") - .apng image assembler/disassembler app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68476302,
+                "language": "Swift",
+                "last_commit": "2019-11-15T20:20:06Z",
+                "owner": "shgodoroja",
+                "repo": "APNGb",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Irvue",
+              "description": "Thousands of stunning photos and wallpapers from Unsplash on your Mac.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 75462952,
+                "language": "Objective-C",
+                "last_commit": "2018-10-02T19:27:12Z",
+                "owner": "leonspok",
+                "repo": "Irvue-Screensaver",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "189⭐ 14🍴 Menubar Colors",
+              "description": ") - Convenient access to the system color panel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36582152,
+                "language": "Swift",
+                "last_commit": "2022-03-22T15:41:31Z",
+                "owner": "nvzqz",
+                "repo": "Menubar-Colors",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "180⭐ 10🍴 Artify",
+              "description": ") - A macOS X application for bringing dedicatedly 18th century Arts to everyone.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133010546,
+                "language": "Swift",
+                "last_commit": "2019-03-02T03:13:16Z",
+                "owner": "NghiaTranUIT",
+                "repo": "artify-macos",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Pulse",
+              "description": "Native menu bar market tracker for stocks, cryptocurrencies, indices, ETFs, and portfolio P&L.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1293304839,
+                "language": "Swift",
+                "last_commit": "2026-08-19T04:18:39Z",
+                "owner": "fatwang2",
+                "repo": "Pulse",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "50⭐ 7🍴 Sleepless",
+              "description": ") - Menu bar utility that keeps your MacBook awake with the lid closed on battery, with a battery-floor auto-off.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1255870526,
+                "language": "Swift",
+                "last_commit": "2026-06-03T05:37:40Z",
+                "owner": "Aboudjem",
+                "repo": "Sleepless",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "17⭐ 0🍴 ClipboardCleaner",
+              "description": ") - Automatically removes text formatting from the clipboard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161175842,
+                "language": "C#",
+                "last_commit": "2018-12-18T13:28:19Z",
+                "owner": "Zuehlke",
+                "repo": "Clipboard_Cleaner",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌎 IINA",
+              "description": "Media player with a minimalist design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76838017,
+                "language": "Swift",
+                "last_commit": "2026-08-20T02:44:53Z",
+                "owner": "iina",
+                "repo": "iina",
+                "stars": 46013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 mpv",
+              "description": "Media player.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6201092,
+                "language": "C",
+                "last_commit": "2026-08-17T17:57:13Z",
+                "owner": "mpv-player",
+                "repo": "mpv",
+                "stars": 36597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 HandBrake",
+              "description": "High performance video encoding and conversion tools with a nice GUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41215835,
+                "language": "C",
+                "last_commit": "2026-08-19T13:50:50Z",
+                "owner": "HandBrake",
+                "repo": "HandBrake",
+                "stars": 24086
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Subtitlr",
+              "description": "Drag and drop subititle download utility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39967820,
+                "language": "Swift",
+                "last_commit": "2020-03-05T15:07:30Z",
+                "owner": "lucijafrkovic",
+                "repo": "Subtitlr",
+                "stars": 89
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🌎 Rectangle",
+              "description": "Easily organize windows without using a mouse.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193162629,
+                "language": "Swift",
+                "last_commit": "2026-08-20T02:39:41Z",
+                "owner": "rxhanson",
+                "repo": "Rectangle",
+                "stars": 29713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "29473⭐ 744🍴 yabai",
+              "description": ") - Tiling window manager with focus follows mouse.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184909163,
+                "language": "C",
+                "last_commit": "2026-06-14T12:40:07Z",
+                "owner": "asmvik",
+                "repo": "yabai",
+                "stars": 29480
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amethyst",
+              "description": "Window manager (automatically keep windows sized in grids).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10115880,
+                "language": "Swift",
+                "last_commit": "2026-08-19T13:38:37Z",
+                "owner": "ianyh",
+                "repo": "Amethyst",
+                "stars": 16224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hammerspoon",
+              "description": "Extremely powerful scripting engine for macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24956772,
+                "language": "Objective-C",
+                "last_commit": "2026-07-08T21:13:24Z",
+                "owner": "Hammerspoon",
+                "repo": "hammerspoon",
+                "stars": 15954
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4540⭐ 126🍴 Phoenix",
+              "description": ") - A lightweight window and app manager scriptable with JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21743740,
+                "language": "Objective-C",
+                "last_commit": "2025-08-31T15:27:29Z",
+                "owner": "kasper",
+                "repo": "phoenix",
+                "stars": 4540
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Window Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "20969⭐ 1035🍴 Aerial",
+              "description": ") - Apple TV Aerial Screensaver for Mac.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44998092,
+                "language": "Swift",
+                "last_commit": "2026-05-16T13:55:52Z",
+                "owner": "JohnCoates",
+                "repo": "Aerial",
+                "stars": 20970
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "940⭐ 122🍴 Sonora",
+              "description": ") - A minimal, beautifully designed music player.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4047634,
+                "language": "Objective-C",
+                "last_commit": "2015-05-13T01:03:32Z",
+                "owner": "sonoramac",
+                "repo": "Sonora",
+                "stars": 940
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "770⭐ 37🍴 Juice",
+              "description": ") - Make your battery information a bit more interesting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76758769,
+                "language": "Swift",
+                "last_commit": "2024-03-30T16:50:08Z",
+                "owner": "brianmichel",
+                "repo": "Juice",
+                "stars": 770
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🌎 Clocker",
+              "description": "Check time in multiple timezones from your Mac menubar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45647020,
+                "language": "Swift",
+                "last_commit": "2026-07-28T02:18:42Z",
+                "owner": "n0shake",
+                "repo": "clocker",
+                "stars": 617
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Catch",
+              "description": "The easiest way to use ShowRSS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13294494,
+                "language": "Swift",
+                "last_commit": "2023-06-09T17:15:00Z",
+                "owner": "mipstian",
+                "repo": "catch",
+                "stars": 435
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
       "title": "Applications"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "19237⭐ 776🍴 BackgroundMusic",
-          "description": ") - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-10T08:58:49Z",
-            "owner": "kyleneideck",
-            "repo": "BackgroundMusic",
-            "stars": 19236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Plug",
-          "description": "Discover and listen to music from Hype Machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-02-20T07:31:19Z",
-            "owner": "wulkano",
-            "repo": "Plug",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Fader",
-          "description": "Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-11T19:24:05Z",
-            "owner": "pantafive",
-            "repo": "fader",
-            "stars": 44
-          }
-        }
-      ],
-      "title": "Audio"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌎 Telegram",
-          "description": "A messaging app with a focus on speed and security, it’s super fast, simple and free.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-09-22T14:19:15Z",
-            "owner": "overtake",
-            "repo": "TelegramSwift",
-            "stars": 5750
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Textual",
-          "description": "An Internet Relay Chat (IRC) client.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Objective-C",
-            "last_commit": "2026-07-03T03:35:56Z",
-            "owner": "Codeux-Software",
-            "repo": "Textual",
-            "stars": 1910
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "1901⭐ 185🍴 ChitChat",
-          "description": ") - A native Mac app wrapper for WhatsApp Web.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2019-10-07T19:49:44Z",
-            "owner": "stonesam92",
-            "repo": "ChitChat",
-            "stars": 1902
-          }
-        }
-      ],
-      "title": "Chat Clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitUp",
-          "description": "A simple but powerful Git macOS app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-07-27T00:05:17Z",
-            "owner": "git-up",
-            "repo": "GitUp",
-            "stars": 12100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 ImageOptim",
-          "description": "Makes images take up less disk space and load faster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-13T18:27:49Z",
-            "owner": "ImageOptim",
-            "repo": "ImageOptim",
-            "stars": 9955
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sequel Pro",
-          "description": "A MySQL database manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2023-02-25T08:11:30Z",
-            "owner": "sequelpro",
-            "repo": "sequelpro",
-            "stars": 9196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "8760⭐ 769🍴 WWDC",
-          "description": ") - The WWDC app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-17T20:11:54Z",
-            "owner": "insidegui",
-            "repo": "WWDC",
-            "stars": 8760
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "8493⭐ 379🍴 Xcodes",
-          "description": ") - Install and switch between multiple versions of Xcode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-08T03:51:59Z",
-            "owner": "XcodesOrg",
-            "repo": "XcodesApp",
-            "stars": 8493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Postgres.app",
-          "description": "The easiest way to get started with PostgreSQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-08-17T08:16:46Z",
-            "owner": "PostgresApp",
-            "repo": "PostgresApp",
-            "stars": 7768
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "7502⭐ 329🍴 Sequel Ace",
-          "description": ") - A MySQL & MariaDB database manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-08-18T20:11:35Z",
-            "owner": "Sequel-Ace",
-            "repo": "Sequel-Ace",
-            "stars": 7506
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "6303⭐ 662🍴 Pusher",
-          "description": ") - A free tool to do sandbox push notifications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-03-30T07:00:58Z",
-            "owner": "noodlewerk",
-            "repo": "NWPusher",
-            "stars": 6303
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 TablePro",
-          "description": "A native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-19T02:32:19Z",
-            "owner": "TableProApp",
-            "repo": "TablePro",
-            "stars": 5499
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "5222⭐ 431🍴 Knuff",
-          "description": ") - The debug application for Apple Push Notification Service (APNs).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2022-09-04T18:39:25Z",
-            "owner": "KnuffApp",
-            "repo": "Knuff",
-            "stars": 5222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Cork",
-          "description": "A fast, intuitive Homebrew GUI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-18T14:47:46Z",
-            "owner": "buresdv",
-            "repo": "Cork",
-            "stars": 4621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3854⭐ 258🍴 Gas Mask",
-          "description": ") - A simple hosts file manager which allows editing of host files and switching between them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-03-01T18:09:56Z",
-            "owner": "2ndalpha",
-            "repo": "gasmask",
-            "stars": 3854
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 CocoaRestClient",
-          "description": "An app for testing REST endpoints.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2024-10-14T00:29:42Z",
-            "owner": "mmattozzi",
-            "repo": "cocoa-rest-client",
-            "stars": 2368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 GitX-dev",
-          "description": "A fork (variant) of GitX, maintained and enhanced with productivity oriented changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2022-06-07T05:57:19Z",
-            "owner": "rowanj",
-            "repo": "gitx",
-            "stars": 2131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "1935⭐ 87🍴 Touch Bar Simulator",
-          "description": ") - The macOS Touch Bar Simulator as a standalone app.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2024-03-06T16:54:05Z",
-            "owner": "sindresorhus",
-            "repo": "touch-bar-simulator",
-            "stars": 1935
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vagrant Manager",
-          "description": "Manage your vagrant machines in one place with Vagrant Manager for macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2020-05-31T13:19:46Z",
-            "owner": "lanayotech",
-            "repo": "vagrant-manager",
-            "stars": 1864
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "1633⭐ 122🍴 Hosts",
-          "description": ") - Edit hosts file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2020-09-25T18:42:53Z",
-            "owner": "specialunderwear",
-            "repo": "Hosts.prefpane",
-            "stars": 1633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Unused",
-          "description": "An app for checking Xcode projects for unused resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2018-06-19T06:47:57Z",
-            "owner": "jeffhodnett",
-            "repo": "Unused",
-            "stars": 1369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Trailer",
-          "description": "Configurable menubar Git notifications with accompanying native iOS app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-27T06:47:32Z",
-            "owner": "ptsochantaris",
-            "repo": "trailer",
-            "stars": 1212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Rockxy",
-          "description": "A native HTTP debugging proxy to capture, inspect, and modify HTTP/HTTPS, WebSocket, and GraphQL traffic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-16T10:52:33Z",
-            "owner": "RockxyApp",
-            "repo": "Rockxy",
-            "stars": 897
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Pasteboard Viewer",
-          "description": "Inspect the system pasteboards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-03-30T18:29:06Z",
-            "owner": "sindresorhus",
-            "repo": "Pasteboard-Viewer",
-            "stars": 847
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "778⭐ 82🍴 QorumLogs",
-          "description": ") - Swift Logging Utility for Xcode & Google Docs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2018-04-25T21:41:34Z",
-            "owner": "Esqarrouth",
-            "repo": "QorumLogs",
-            "stars": 778
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "524⭐ 28🍴 Pods Updater",
-          "description": ") - A macOS app which helps you manage dependency releases in your Podfile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-03-17T10:57:51Z",
-            "owner": "kizitonwose",
-            "repo": "PodsUpdater",
-            "stars": 524
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 ImageAlpha",
-          "description": "Apply lossy compression on PNG files with or without transparency for more efficient files.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-07-04T11:02:20Z",
-            "owner": "kornelski",
-            "repo": "ImageAlpha",
-            "stars": 480
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "363⭐ 17🍴 gitbar",
-          "description": ") - Open source github contribution stats on your Menu Bar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-09-15T03:28:01Z",
-            "owner": "Shikkic",
-            "repo": "gitbar",
-            "stars": 363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "215⭐ 8🍴 SSH Keys Manager",
-          "description": ") - Native macOS app for managing SSH keys and SSH config entries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-03T03:57:49Z",
-            "owner": "Stmol",
-            "repo": "ssh-keys-manager-macos-app",
-            "stars": 216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "150⭐ 11🍴 Iconology",
-          "description": ") - Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-01-31T19:56:18Z",
-            "owner": "liamrosenfeld",
-            "repo": "Iconology",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "92⭐ 1🍴 TopOff",
-          "description": ") - Menu bar app for Homebrew — full beer mug when packages are fresh, half mug when it's time to refill.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-18T02:42:29Z",
-            "owner": "ihazgithub",
-            "repo": "TopOff",
-            "stars": 92
-          }
-        }
-      ],
-      "title": "Developers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌎 TextMate",
-          "description": "A graphical text editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C++",
-            "last_commit": "2024-05-18T11:00:21Z",
-            "owner": "textmate",
-            "repo": "textmate",
-            "stars": 14565
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 CotEditor",
-          "description": "Lightweight plain-text editor for macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-17T11:32:12Z",
-            "owner": "coteditor",
-            "repo": "CotEditor",
-            "stars": 8381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "7875⭐ 694🍴 MacVim",
-          "description": ") - Vim, the text editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2026-07-30T16:55:46Z",
-            "owner": "macvim-dev",
-            "repo": "macvim",
-            "stars": 7874
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VimR",
-          "description": "Vim, refined.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-26T13:24:42Z",
-            "owner": "qvacua",
-            "repo": "vimr",
-            "stars": 6985
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Itsypad",
-          "description": "Lightweight scratchpad with syntax highlighting for 185+ languages and clipboard history manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-15T16:25:29Z",
-            "owner": "nickustinov",
-            "repo": "itsypad-macos",
-            "stars": 416
-          }
-        }
-      ],
-      "title": "Editors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenEmu",
-          "description": "Multiple Video Game System.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-10-22T21:39:10Z",
-            "owner": "OpenEmu",
-            "repo": "OpenEmu",
-            "stars": 17721
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Dolphin",
-          "description": "A powerful, Open Source emulator for Nintendo GameCube and Wii games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T21:15:47Z",
-            "owner": "dolphin-emu",
-            "repo": "dolphin",
-            "stars": 15416
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Screentendo",
-          "description": "Turn your screen into a playable level of Mario.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2015-05-26T14:14:54Z",
-            "owner": "AaronRandall",
-            "repo": "Screentendo",
-            "stars": 1096
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Boxer",
-          "description": "The DOS game emulator that’s fit for your Mac.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-10-24T17:17:53Z",
-            "owner": "alinebee",
-            "repo": "Boxer",
-            "stars": 790
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stockfish",
-          "description": "Beautiful, powerful chess application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-11-08T06:16:55Z",
-            "owner": "daylen",
-            "repo": "stockfish-mac",
-            "stars": 537
-          }
-        }
-      ],
-      "title": "Games"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Sketch Toolbox",
-          "description": "A super simple plugin manager for Sketch.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Objective-C",
-            "last_commit": "2018-10-11T15:27:41Z",
-            "owner": "buzzfeed",
-            "repo": "Sketch-Toolbox",
-            "stars": 2098
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 macSVG",
-          "description": "Design and edit SVG content for web, mobile, and animation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2022-07-17T04:46:15Z",
-            "owner": "dsward2",
-            "repo": "macSVG",
-            "stars": 1290
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "967⭐ 48🍴 GifCapture",
-          "description": ") - Record GIF screencasts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-04-11T10:59:39Z",
-            "owner": "onmyway133",
-            "repo": "GifCapture",
-            "stars": 967
-          }
-        }
-      ],
-      "title": "Graphics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌎 NetNewsWire",
-          "description": "A classic RSS reader reacquired by its original author and rewritten for modern macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-16T22:57:04Z",
-            "owner": "Ranchero-Software",
-            "repo": "NetNewsWire",
-            "stars": 10297
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vienna",
-          "description": "RSS/Atom newsreader.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-08-16T12:31:22Z",
-            "owner": "ViennaRSS",
-            "repo": "vienna-rss",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 hacker-menu",
-          "description": "Hacker News Delivered to Desktop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-10-10T22:14:31Z",
-            "owner": "owenthereal",
-            "repo": "hacker-menu",
-            "stars": 1001
-          }
-        }
-      ],
-      "title": "News Readers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌎 NoteGen",
-          "description": "Local-first Markdown notes app with capture, editing, file management, canvas, and optional sync.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T07:28:58Z",
-            "owner": "codexu",
-            "repo": "note-gen",
-            "stars": 12654
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 MeetingBar",
-          "description": "Your meetings in MacOS status bar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-17T12:40:50Z",
-            "owner": "leits",
-            "repo": "MeetingBar",
-            "stars": 5308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 SelfControl",
-          "description": "Block access to distracting websites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-06-26T17:11:53Z",
-            "owner": "SelfControlApp",
-            "repo": "selfcontrol",
-            "stars": 4385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 ItsyCal",
-          "description": "A tiny menubar calendar to display your Mac Calendar app events.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-04-05T05:43:53Z",
-            "owner": "sfsam",
-            "repo": "Itsycal",
-            "stars": 3981
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Karabiner",
-          "description": "A powerful keyboard customizer.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2020-03-01T01:26:15Z",
-            "owner": "pqrs-org",
-            "repo": "Karabiner-archived",
-            "stars": 3784
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Quicksilver",
-          "description": "Control your Mac quickly and elegantly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-06-26T14:53:30Z",
-            "owner": "quicksilver",
-            "repo": "Quicksilver",
-            "stars": 2923
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telephone",
-          "description": "A SIP softphone. Make phone calls over the Internet or your company’s network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-12T14:12:10Z",
-            "owner": "64characters",
-            "repo": "Telephone",
-            "stars": 1161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClipMenu",
-          "description": "ClipBoard History Manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2020-08-02T06:09:05Z",
-            "owner": "naotaka",
-            "repo": "ClipMenu",
-            "stars": 932
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "339⭐ 27🍴 PDF Archiver",
-          "description": ") - A nice tool for tagging and archiving tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-19T01:49:39Z",
-            "owner": "PDF-Archiver",
-            "repo": "PDF-Archiver",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Keyty",
-          "description": "Keystroke and mouse-click visualizer for demos, screen recordings, presentations, and livestreams.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-18T23:08:27Z",
-            "owner": "keytyapp",
-            "repo": "Keyty",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 ScreenTranslate",
-          "description": "Capture any area or select text to translate instantly, fully on-device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-18T03:36:32Z",
-            "owner": "hcmhcs",
-            "repo": "screenTranslate",
-            "stars": 59
-          }
-        }
-      ],
-      "title": "Productivity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌎 Transmission",
-          "description": "Simple, lightweight, multi-platform torrent client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-07T18:17:09Z",
-            "owner": "transmission",
-            "repo": "transmission",
-            "stars": 15109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "957⭐ 97🍴 mac2imgur",
-          "description": ") - Upload images and screenshots to Imgur.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-02-16T11:38:24Z",
-            "owner": "mileswd",
-            "repo": "mac2imgur",
-            "stars": 957
-          }
-        }
-      ],
-      "title": "Sharing Files"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "33988⭐ 990🍴 MonitorControl",
-          "description": ") - Control your display's brightness and volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-11T12:43:28Z",
-            "owner": "MonitorControl",
-            "repo": "MonitorControl",
-            "stars": 33990
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "18064⭐ 655🍴 BitBar",
-          "description": ") - Display output of any script to the menu bar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-09-10T10:18:51Z",
-            "owner": "matryer",
-            "repo": "xbar",
-            "stars": 18064
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "15308⭐ 945🍴 Mackup",
-          "description": ") - Keep your application settings in sync.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-15T00:33:53Z",
-            "owner": "lra",
-            "repo": "mackup",
-            "stars": 15308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "10379⭐ 935🍴 Boring Notch",
-          "description": ") - Turns your MacBook notch into a dynamic hub with media controls, calendar integration, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-16T22:34:45Z",
-            "owner": "TheBoredTeam",
-            "repo": "boring.notch",
-            "stars": 10389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MacDown",
-          "description": "Markdown editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rich Text Format",
-            "last_commit": "2023-07-10T22:19:38Z",
-            "owner": "MacDownApp",
-            "repo": "macdown",
-            "stars": 9816
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "8717⭐ 299🍴 Dozer",
-          "description": ") - Hide MacOS menubar items.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-11-30T13:45:27Z",
-            "owner": "Mortennn",
-            "repo": "Dozer",
-            "stars": 8716
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 MacPass",
-          "description": "Password Manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2025-05-07T13:16:04Z",
-            "owner": "MacPass",
-            "repo": "MacPass",
-            "stars": 6853
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "6838⭐ 264🍴 KeepingYouAwake",
-          "description": ") - Menu bar utility that prevents Mac from going to sleep.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-08-15T11:38:08Z",
-            "owner": "newmarcel",
-            "repo": "KeepingYouAwake",
-            "stars": 6844
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "6037⭐ 158🍴 AnyBar",
-          "description": ") - A menubar status indicator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-03-21T12:54:03Z",
-            "owner": "tonsky",
-            "repo": "AnyBar",
-            "stars": 6037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "5818⭐ 321🍴 PureMac",
-          "description": ") - Free and open-source macOS cleaner that removes system caches, Xcode junk, Homebrew cache, and more with no telemetry or network calls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-17T22:48:27Z",
-            "owner": "momenbasel",
-            "repo": "PureMac",
-            "stars": 5843
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "5543⭐ 360🍴 ShiftIt",
-          "description": ") - Managing windows size and position.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2023-11-20T10:24:52Z",
-            "owner": "fikovnik",
-            "repo": "ShiftIt",
-            "stars": 5543
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Finicky",
-          "description": "App that allows you to set rules that decide which browser is opened for every link.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-01T21:45:31Z",
-            "owner": "johnste",
-            "repo": "finicky",
-            "stars": 5026
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Übersicht",
-          "description": "Run system commands and display their output on your desktop as widgets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2025-06-28T08:25:38Z",
-            "owner": "felixhageloh",
-            "repo": "uebersicht",
-            "stars": 4979
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "4229⭐ 402🍴 RDM",
-          "description": ") - Easily set Mac Retina display to higher unsupported resolutions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Objective-C++",
-            "last_commit": "2023-11-29T00:54:59Z",
-            "owner": "avibrazil",
-            "repo": "RDM",
-            "stars": 4228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3594⭐ 246🍴 Helium",
-          "description": ") - A floating browser window that allows you to watch media while you work.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2022-02-05T22:22:45Z",
-            "owner": "JadenGeller",
-            "repo": "Helium",
-            "stars": 3594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3497⭐ 73🍴 Wineskin",
-          "description": ") - Run Windows applications and games on your Mac.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-04T21:47:10Z",
-            "owner": "Sikarugir-App",
-            "repo": "Sikarugir",
-            "stars": 3504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MenuMeters",
-          "description": "A set of CPU, memory, disk, and network monitoring tools for macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2024-05-20T02:06:13Z",
-            "owner": "yujitach",
-            "repo": "MenuMeters",
-            "stars": 3074
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "2844⭐ 267🍴 BeardedSpice",
-          "description": ") - Control web based media players with the media keys found on Mac keyboards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-05-12T15:48:39Z",
-            "owner": "beardedspice",
-            "repo": "beardedspice",
-            "stars": 2844
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notational Velocity",
-          "description": "Store, retrieve and sync notes within a minimal GUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-06-19T18:57:02Z",
-            "owner": "scrod",
-            "repo": "nv",
-            "stars": 2104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Equinox",
-          "description": "Create macOS dynamic wallpapers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-11T22:35:25Z",
-            "owner": "rlxone",
-            "repo": "Equinox",
-            "stars": 2049
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ControlPlane",
-          "description": "Automate running tasks based on where you are or what you do.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-25T23:20:43Z",
-            "owner": "dustinrue",
-            "repo": "ControlPlane",
-            "stars": 1810
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 gfxCardStatus",
-          "description": "Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-07-10T03:16:34Z",
-            "owner": "codykrieger",
-            "repo": "gfxCardStatus",
-            "stars": 1714
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "1541⭐ 110🍴 Kawa",
-          "description": ") - A better input source switcher with shortcuts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-08-20T18:41:17Z",
-            "owner": "hatashiro",
-            "repo": "kawa",
-            "stars": 1541
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Strongbox",
-          "description": "Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-07-17T14:03:41Z",
-            "owner": "strongbox-password-safe",
-            "repo": "Strongbox",
-            "stars": 1451
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "1444⭐ 50🍴 Gray",
-          "description": ") - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-07-22T02:40:23Z",
-            "owner": "zenangst",
-            "repo": "Gray",
-            "stars": 1444
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fanny",
-          "description": "Notification Center widget and menu bar application to monitor your Mac's fans and CPU temperature.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-05-02T20:12:28Z",
-            "owner": "DanielStormApps",
-            "repo": "Fanny",
-            "stars": 1382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "1368⭐ 150🍴 DisableMonitor",
-          "description": ") - Easily disable or enable a monitor on your Mac.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2018-01-26T09:02:18Z",
-            "owner": "Eun",
-            "repo": "DisableMonitor",
-            "stars": 1368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "1229⭐ 58🍴 SlowQuitApps",
-          "description": ") - Prevent accidental Cmd-Q.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2020-12-28T07:08:21Z",
-            "owner": "dteoh",
-            "repo": "SlowQuitApps",
-            "stars": 1229
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Itsyhome",
-          "description": "Control HomeKit and Home Assistant smart home devices from the menu bar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-10T09:38:51Z",
-            "owner": "nickustinov",
-            "repo": "itsyhome-macos",
-            "stars": 981
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Noti",
-          "description": "Receive Android notifications on your mac (with PushBullet).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2022-07-05T17:02:40Z",
-            "owner": "jariz",
-            "repo": "Noti",
-            "stars": 910
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Loading",
-          "description": "See when apps are using your network in your Mac menubar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2020-11-17T20:54:52Z",
-            "owner": "BonzaiThePenguin",
-            "repo": "Loading",
-            "stars": 621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Itsytv",
-          "description": "Control your Apple TV from the menu bar with remote, now playing widget, and app launcher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-18T08:12:19Z",
-            "owner": "nickustinov",
-            "repo": "itsytv-macos",
-            "stars": 614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "329⭐ 26🍴 APNGb",
-          "description": ") - .apng image assembler/disassembler app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-11-15T20:20:06Z",
-            "owner": "shgodoroja",
-            "repo": "APNGb",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Irvue",
-          "description": "Thousands of stunning photos and wallpapers from Unsplash on your Mac.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Objective-C",
-            "last_commit": "2018-10-02T19:27:12Z",
-            "owner": "leonspok",
-            "repo": "Irvue-Screensaver",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "189⭐ 14🍴 Menubar Colors",
-          "description": ") - Convenient access to the system color panel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-03-22T15:41:31Z",
-            "owner": "nvzqz",
-            "repo": "Menubar-Colors",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "180⭐ 10🍴 Artify",
-          "description": ") - A macOS X application for bringing dedicatedly 18th century Arts to everyone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-03-02T03:13:16Z",
-            "owner": "NghiaTranUIT",
-            "repo": "artify-macos",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Pulse",
-          "description": "Native menu bar market tracker for stocks, cryptocurrencies, indices, ETFs, and portfolio P&L.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-14T15:25:49Z",
-            "owner": "fatwang2",
-            "repo": "Pulse",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "50⭐ 7🍴 Sleepless",
-          "description": ") - Menu bar utility that keeps your MacBook awake with the lid closed on battery, with a battery-floor auto-off.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-03T05:37:40Z",
-            "owner": "Aboudjem",
-            "repo": "Sleepless",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "17⭐ 0🍴 ClipboardCleaner",
-          "description": ") - Automatically removes text formatting from the clipboard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2018-12-18T13:28:19Z",
-            "owner": "Zuehlke",
-            "repo": "Clipboard_Cleaner",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Utilities"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌎 IINA",
-          "description": "Media player with a minimalist design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-18T02:17:06Z",
-            "owner": "iina",
-            "repo": "iina",
-            "stars": 46006
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 mpv",
-          "description": "Media player.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T17:57:13Z",
-            "owner": "mpv-player",
-            "repo": "mpv",
-            "stars": 36583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 HandBrake",
-          "description": "High performance video encoding and conversion tools with a nice GUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-16T07:46:01Z",
-            "owner": "HandBrake",
-            "repo": "HandBrake",
-            "stars": 24070
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Subtitlr",
-          "description": "Drag and drop subititle download utility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-03-05T15:07:30Z",
-            "owner": "lucijafrkovic",
-            "repo": "Subtitlr",
-            "stars": 89
-          }
-        }
-      ],
-      "title": "Video"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🌎 Rectangle",
-          "description": "Easily organize windows without using a mouse.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-18T15:01:52Z",
-            "owner": "rxhanson",
-            "repo": "Rectangle",
-            "stars": 29706
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "29473⭐ 744🍴 yabai",
-          "description": ") - Tiling window manager with focus follows mouse.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-14T12:40:07Z",
-            "owner": "asmvik",
-            "repo": "yabai",
-            "stars": 29475
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Amethyst",
-          "description": "Window manager (automatically keep windows sized in grids).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-11T00:32:39Z",
-            "owner": "ianyh",
-            "repo": "Amethyst",
-            "stars": 16222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hammerspoon",
-          "description": "Extremely powerful scripting engine for macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-07-08T21:13:24Z",
-            "owner": "Hammerspoon",
-            "repo": "hammerspoon",
-            "stars": 15950
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "4540⭐ 126🍴 Phoenix",
-          "description": ") - A lightweight window and app manager scriptable with JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2025-08-31T15:27:29Z",
-            "owner": "kasper",
-            "repo": "phoenix",
-            "stars": 4540
-          }
-        }
-      ],
-      "title": "Window Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "20969⭐ 1035🍴 Aerial",
-          "description": ") - Apple TV Aerial Screensaver for Mac.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-05-16T13:55:52Z",
-            "owner": "JohnCoates",
-            "repo": "Aerial",
-            "stars": 20969
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "940⭐ 122🍴 Sonora",
-          "description": ") - A minimal, beautifully designed music player.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2015-05-13T01:03:32Z",
-            "owner": "sonoramac",
-            "repo": "Sonora",
-            "stars": 940
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "770⭐ 37🍴 Juice",
-          "description": ") - Make your battery information a bit more interesting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-03-30T16:50:08Z",
-            "owner": "brianmichel",
-            "repo": "Juice",
-            "stars": 770
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🌎 Clocker",
-          "description": "Check time in multiple timezones from your Mac menubar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-28T02:18:42Z",
-            "owner": "n0shake",
-            "repo": "clocker",
-            "stars": 617
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Catch",
-          "description": "The easiest way to use ShowRSS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-06-09T17:15:00Z",
-            "owner": "mipstian",
-            "repo": "catch",
-            "stars": 435
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1717,6 +1847,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42956467,
             "language": null,
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
@@ -1731,11 +1862,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40092232,
             "language": "Swift",
             "last_commit": "2026-08-17T12:46:16Z",
             "owner": "mas-cli",
             "repo": "mas",
-            "stars": 12307
+            "stars": 12309
           }
         },
         {
@@ -1745,6 +1877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62925253,
             "language": "Shell",
             "last_commit": "2026-06-02T18:15:16Z",
             "owner": "rgcr",
@@ -1759,6 +1892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47524979,
             "language": "Shell",
             "last_commit": "2026-02-28T02:21:48Z",
             "owner": "guarinogabriel",
@@ -1773,11 +1907,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1280043464,
             "language": null,
             "last_commit": "2026-07-22T10:51:39Z",
             "owner": "MacPaw",
             "repo": "cleanmymac-cli",
-            "stars": 334
+            "stars": 363
           }
         },
         {
@@ -1787,11 +1922,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175493743,
             "language": "Swift",
             "last_commit": "2026-08-18T14:06:40Z",
             "owner": "us",
             "repo": "mocker",
-            "stars": 329
+            "stars": 330
           }
         },
         {
@@ -1801,6 +1937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1249490448,
             "language": "Rust",
             "last_commit": "2026-07-27T02:11:34Z",
             "owner": "dutradotdev",
@@ -1812,7 +1949,7 @@
       "title": "Command Line Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1821,11 +1958,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2909429,
             "language": "Python",
             "last_commit": "2026-08-18T11:20:49Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33373
+            "stars": 33384
           }
         },
         {
@@ -1835,6 +1973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7416852,
             "language": "Objective-C",
             "last_commit": "2025-02-21T03:09:45Z",
             "owner": "hschmidt",
@@ -1849,6 +1988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1305902119,
             "language": "Rust",
             "last_commit": "2026-07-19T18:17:28Z",
             "owner": "Tuguberk",
@@ -1860,12 +2000,7 @@
       "title": "macOS Utilities"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Setup"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1874,11 +2009,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41654081,
             "language": null,
-            "last_commit": "2026-08-16T23:23:28Z",
+            "last_commit": "2026-08-19T05:00:06Z",
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22487
+            "stars": 22488
           }
         },
         {
@@ -1888,6 +2024,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25009012,
             "language": "Objective-C++",
             "last_commit": "2025-02-05T13:23:36Z",
             "owner": "google",
@@ -1902,11 +2039,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39261898,
             "language": "Objective-C",
             "last_commit": "2026-08-16T16:17:41Z",
             "owner": "Tunnelblick",
             "repo": "Tunnelblick",
-            "stars": 3274
+            "stars": 3275
           }
         },
         {
@@ -1916,6 +2054,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22615096,
             "language": "Python",
             "last_commit": "2019-06-19T15:40:49Z",
             "owner": "YelpArchive",
@@ -1930,6 +2069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5379042,
             "language": "Swift",
             "last_commit": "2025-08-05T17:59:21Z",
             "owner": "halo",
@@ -1944,6 +2084,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14958024,
             "language": null,
             "last_commit": "2015-09-23T15:45:08Z",
             "owner": "etsy",
@@ -1958,11 +2099,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1075287174,
             "language": "Swift",
             "last_commit": "2026-07-24T04:39:33Z",
             "owner": "ClashX-Pro",
             "repo": "ClashX",
-            "stars": 721
+            "stars": 724
           }
         },
         {
@@ -1972,11 +2114,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385891121,
             "language": "Swift",
             "last_commit": "2026-08-17T17:55:06Z",
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -1986,6 +2129,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19228153,
             "language": "Ruby",
             "last_commit": "2026-01-19T01:46:28Z",
             "owner": "acrogenesis",
@@ -2000,6 +2144,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61901117,
             "language": "Objective-C",
             "last_commit": "2025-12-27T22:51:38Z",
             "owner": "shilch",
@@ -2014,6 +2159,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186242047,
             "language": "Swift",
             "last_commit": "2026-08-18T05:32:38Z",
             "owner": "sorkila",
@@ -2028,8 +2174,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-18T22:40:41Z",
+            "last_commit": "2026-08-19T04:54:16Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -2037,31 +2184,12 @@
         }
       ],
       "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Discussion Forums"
-    },
-    {
-      "description": "Contributions are most welcome, please adhere to the Contribution Guidelines and our Code of Conduct.\nPlease consider checking out the pull requests that need more votes to be included.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "19045⭐ 1378🍴 iCHAIT/awesome-macOS)",
-      "items": [],
-      "title": "Source"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:02:11.638Z",
+    "last_updated": "2026-08-20T03:01:14.400Z",
     "original_repository": "Correia-jpv/fucking-awesome-macOS",
+    "original_repository_id": 517292489,
     "original_repository_sha": "ef6ae440984d167251047fbf97255a37a7dc11e8",
     "enhanced_repository": "enhansome/fucking-enhansome-macOS",
     "enhanced_repository_description": null,
