@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-25T21:37:24Z",
                 "owner": "Sequel-Ace",
                 "repo": "Sequel-Ace",
-                "stars": 7515
+                "stars": 7516
               }
             },
             {
@@ -1129,7 +1129,7 @@
                 "last_commit": "2026-08-27T01:16:58Z",
                 "owner": "TheBoredTeam",
                 "repo": "boring.notch",
-                "stars": 10495
+                "stars": 10496
               }
             },
             {
@@ -1189,7 +1189,7 @@
                 "last_commit": "2025-05-07T13:16:04Z",
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6854
+                "stars": 6853
               }
             },
             {
@@ -1736,7 +1736,7 @@
                 "last_commit": "2026-08-26T17:16:39Z",
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24185
+                "stars": 24186
               }
             },
             {
@@ -2016,7 +2016,7 @@
             "last_commit": "2026-08-26T12:21:54Z",
             "owner": "MacPaw",
             "repo": "cleanmymac-cli",
-            "stars": 624
+            "stars": 625
           }
         },
         {
@@ -2067,7 +2067,7 @@
             "last_commit": "2026-08-26T14:06:06Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33450
+            "stars": 33452
           }
         },
         {
@@ -2427,7 +2427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:49.251Z",
+    "last_updated": "2026-08-27T12:38:45.486Z",
     "original_repository_info": {
       "archived": false,
       "id": 517292489,
