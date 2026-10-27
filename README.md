@@ -2,7 +2,7 @@
 
 <img src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/awesome-display.svg" width="400">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,805 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,311 | 🐛 105 | 📅 2026-09-02
 
 > A curated list of awesome applications, software, tools and shiny things for macOS.
 
@@ -55,9 +55,9 @@
 
 ### Audio
 
-* <b><code> 19351⭐</code></b> <b><code>   784🍴</code></b> [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,355 | 🐛 543 | 🌐 C++ | 📅 2026-06-10) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,355 | 🐛 543 | 🌐 C++ | 📅 2026-06-10 ![Freeware][Freeware Icon]
+* <b><code> 19356⭐</code></b> <b><code>   784🍴</code></b> [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,357 | 🐛 543 | 🌐 C++ | 📅 2026-06-10) - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,357 | 🐛 543 | 🌐 C++ | 📅 2026-06-10 ![Freeware][Freeware Icon]
 * 🌎 [Plug](plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ⭐ 231 | 🐛 14 | 🌐 Swift | 📅 2024-02-20 ![Freeware][Freeware Icon]
-* 🌎 [Fader](fader.pantafive.dev) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ⭐ 77 | 🐛 3 | 🌐 Swift | 📅 2026-10-22 ![Freeware][Freeware Icon]
+* 🌎 [Fader](fader.pantafive.dev) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ⭐ 77 | 🐛 4 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
 * 🌎 [Audio Profile Manager](apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1\&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen.
 * 🌎 [krisp](krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
@@ -73,8 +73,8 @@
 
 ### Chat Clients
 
-* 🌎 [Textual](www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual) ⭐ 1,920 | 🐛 0 | 🌐 Objective-C | 📅 2026-10-24
-* <b><code>  1900⭐</code></b> <b><code>   185🍴</code></b> [ChitChat](https://github.com/stonesam92/ChitChat) ⭐ 1,901 | 🐛 70 | 🌐 Objective-C | 📅 2019-10-07) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ⭐ 1,901 | 🐛 70 | 🌐 Objective-C | 📅 2019-10-07 ![Freeware][Freeware Icon]
+* 🌎 [Textual](www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual) ⭐ 1,920 | 🐛 0 | 🌐 Objective-C | 📅 2026-10-27
+* <b><code>  1901⭐</code></b> <b><code>   185🍴</code></b> [ChitChat](https://github.com/stonesam92/ChitChat) ⭐ 1,901 | 🐛 70 | 🌐 Objective-C | 📅 2019-10-07) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ⭐ 1,901 | 🐛 70 | 🌐 Objective-C | 📅 2019-10-07 ![Freeware][Freeware Icon]
 * 🌎 [Telegram](itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/TelegramSwift) ![Freeware][Freeware Icon]
 
 ### Data Recovery
@@ -86,30 +86,30 @@
 
 * [GitUp](http://gitup.co/) - A simple but powerful Git macOS app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ⭐ 12,148 | 🐛 363 | 🌐 Objective-C | 📅 2026-10-08 ![Freeware][Freeware Icon]
 * 🌎 [ImageOptim](imageoptim.com/mac) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ⭐ 10,016 | 🐛 213 | 🌐 HTML | 📅 2026-07-13 ![Freeware][Freeware Icon]
-* [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ⭐ 9,190 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 ![Freeware][Freeware Icon]
-* <b><code>  8745⭐</code></b> <b><code>   766🍴</code></b> [WWDC](https://github.com/insidegui/WWDC) ⭐ 8,746 | 🐛 23 | 🌐 Swift | 📅 2026-06-17) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ⭐ 8,746 | 🐛 23 | 🌐 Swift | 📅 2026-06-17
-* <b><code>  8620⭐</code></b> <b><code>   390🍴</code></b> [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) ⭐ 8,623 | 🐛 236 | 🌐 Swift | 📅 2026-10-13) - Install and switch between multiple versions of Xcode. [![Open-Source Software][OSS Icon]](https://github.com/RobotsAndPencils/XcodesApp) ⭐ 8,623 | 🐛 236 | 🌐 Swift | 📅 2026-10-13 ![Freeware][Freeware Icon]
+* [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ⭐ 9,189 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 ![Freeware][Freeware Icon]
+* <b><code>  8746⭐</code></b> <b><code>   766🍴</code></b> [WWDC](https://github.com/insidegui/WWDC) ⭐ 8,746 | 🐛 23 | 🌐 Swift | 📅 2026-06-17) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ⭐ 8,746 | 🐛 23 | 🌐 Swift | 📅 2026-06-17
+* <b><code>  8622⭐</code></b> <b><code>   390🍴</code></b> [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) ⭐ 8,622 | 🐛 237 | 🌐 Swift | 📅 2026-10-13) - Install and switch between multiple versions of Xcode. [![Open-Source Software][OSS Icon]](https://github.com/RobotsAndPencils/XcodesApp) ⭐ 8,622 | 🐛 237 | 🌐 Swift | 📅 2026-10-13 ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ⭐ 7,787 | 🐛 153 | 🌐 Makefile | 📅 2026-10-23 ![Freeware][Freeware Icon]
-* <b><code>  7555⭐</code></b> <b><code>   340🍴</code></b> [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,556 | 🐛 190 | 🌐 Objective-C | 📅 2026-10-26) - A MySQL & MariaDB database manager. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,556 | 🐛 190 | 🌐 Objective-C | 📅 2026-10-26 ![Freeware][Freeware Icon]
-* 🌎 [TablePro](tablepro.app) - A native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more. [![Open-Source Software][OSS Icon]](https://github.com/TableProApp/TablePro) ⭐ 6,321 | 🐛 38 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
+* <b><code>  7555⭐</code></b> <b><code>   339🍴</code></b> [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,556 | 🐛 190 | 🌐 Objective-C | 📅 2026-10-27) - A MySQL & MariaDB database manager. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,556 | 🐛 190 | 🌐 Objective-C | 📅 2026-10-27 ![Freeware][Freeware Icon]
+* 🌎 [TablePro](tablepro.app) - A native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more. [![Open-Source Software][OSS Icon]](https://github.com/TableProApp/TablePro) ⭐ 6,328 | 🐛 39 | 🌐 Swift | 📅 2026-10-27 ![Freeware][Freeware Icon]
 * <b><code>  6299⭐</code></b> <b><code>   662🍴</code></b> [Pusher](https://github.com/noodlewerk/NWPusher) ⭐ 6,299 | 🐛 28 | 🌐 Objective-C | 📅 2021-03-30) - A free tool to do sandbox push notifications. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ⭐ 7,787 | 🐛 153 | 🌐 Makefile | 📅 2026-10-23 ![Freeware][Freeware Icon]
-* <b><code>  5213⭐</code></b> <b><code>   432🍴</code></b> [Knuff](https://github.com/KnuffApp/Knuff) ⭐ 5,214 | 🐛 19 | 🌐 Objective-C | 📅 2022-09-04) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ⭐ 5,214 | 🐛 19 | 🌐 Objective-C | 📅 2022-09-04 ![Freeware][Freeware Icon]
-* 🌎 [Cork](corkmac.app) - A fast, intuitive Homebrew GUI [![Open-Source Software][OSS Icon]](https://github.com/buresdv/Cork) ⭐ 4,710 | 🐛 54 | 🌐 Swift | 📅 2026-10-24
-* <b><code>  3863⭐</code></b> <b><code>   261🍴</code></b> [Gas Mask](https://github.com/2ndalpha/gasmask) ⭐ 3,864 | 🐛 86 | 🌐 Objective-C | 📅 2026-03-01) - A simple hosts file manager which allows editing of host files and switching between them. [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ⭐ 3,864 | 🐛 86 | 🌐 Objective-C | 📅 2026-03-01 ![Freeware][Freeware Icon]
+* <b><code>  5214⭐</code></b> <b><code>   432🍴</code></b> [Knuff](https://github.com/KnuffApp/Knuff) ⭐ 5,214 | 🐛 19 | 🌐 Objective-C | 📅 2022-09-04) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ⭐ 5,214 | 🐛 19 | 🌐 Objective-C | 📅 2022-09-04 ![Freeware][Freeware Icon]
+* 🌎 [Cork](corkmac.app) - A fast, intuitive Homebrew GUI [![Open-Source Software][OSS Icon]](https://github.com/buresdv/Cork) ⭐ 4,711 | 🐛 54 | 🌐 Swift | 📅 2026-10-24
+* <b><code>  3864⭐</code></b> <b><code>   261🍴</code></b> [Gas Mask](https://github.com/2ndalpha/gasmask) ⭐ 3,864 | 🐛 86 | 🌐 Objective-C | 📅 2026-03-01) - A simple hosts file manager which allows editing of host files and switching between them. [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ⭐ 3,864 | 🐛 86 | 🌐 Objective-C | 📅 2026-03-01 ![Freeware][Freeware Icon]
 * 🌎 [CocoaRestClient](mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ⭐ 2,365 | 🐛 44 | 🌐 Objective-C | 📅 2024-10-14 ![Freeware][Freeware Icon]
 * 🌎 [GitX-dev](rowanj.github.io/gitx/) - A fork (variant) of GitX, maintained and enhanced with productivity oriented changes.  [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ⭐ 2,130 | 🐛 259 | 🌐 Objective-C | 📅 2022-06-07 ![Freeware][Freeware Icon]
 * <b><code>  1936⭐</code></b> <b><code>    87🍴</code></b> [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) ⚠️ Archived) - The macOS Touch Bar Simulator as a standalone app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/touch-bar-simulator) ⚠️ Archived ![Freeware][Freeware Icon]
 * [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ⭐ 1,862 | 🐛 20 | 🌐 Objective-C | 📅 2020-05-31 ![Freeware][Freeware Icon]
 * <b><code>  1629⭐</code></b> <b><code>   121🍴</code></b> [Hosts](https://github.com/specialunderwear/Hosts.prefpane) ⭐ 1,629 | 🐛 10 | 🌐 Objective-C | 📅 2020-09-25) - Edit hosts file. [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ⭐ 1,629 | 🐛 10 | 🌐 Objective-C | 📅 2020-09-25 ![Freeware][Freeware Icon]
-* 🌎 [Rockxy](rockxy.io/) - A native HTTP debugging proxy to capture, inspect, and modify HTTP/HTTPS, WebSocket, and GraphQL traffic. [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Rockxy) ⭐ 1,443 | 🐛 84 | 🌐 Swift | 📅 2026-10-20
+* 🌎 [Rockxy](rockxy.io/) - A native HTTP debugging proxy to capture, inspect, and modify HTTP/HTTPS, WebSocket, and GraphQL traffic. [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Rockxy) ⭐ 1,445 | 🐛 84 | 🌐 Swift | 📅 2026-10-20
 * 🌎 [Unused](jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon]](https://github.com/jeffhodnett/Unused) ⭐ 1,368 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-19 ![Freeware][Freeware Icon]
 * 🌎 [Trailer](ptsochantaris.github.io/trailer/) - Configurable menubar Git notifications with accompanying native iOS app. [![Open-Source Software][OSS Icon]](https://github.com/ptsochantaris/trailer) ⭐ 1,217 | 🐛 23 | 🌐 Swift | 📅 2026-09-18
-* 🌎 [Pasteboard Viewer](apps.apple.com/app/id1499215709) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ⭐ 865 | 🐛 4 | 🌐 Swift | 📅 2026-03-30 ![Freeware][Freeware Icon]
+* 🌎 [Pasteboard Viewer](apps.apple.com/app/id1499215709) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ⭐ 866 | 🐛 4 | 🌐 Swift | 📅 2026-03-30 ![Freeware][Freeware Icon]
 * <b><code>   772⭐</code></b> <b><code>    82🍴</code></b> [QorumLogs](https://github.com/goktugyil/QorumLogs) ⭐ 772 | 🐛 8 | 🌐 Swift | 📅 2018-04-25) - Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs) ⭐ 772 | 🐛 8 | 🌐 Swift | 📅 2018-04-25 ![Freeware][Freeware Icon]
 * <b><code>   523⭐</code></b> <b><code>    28🍴</code></b> [Pods Updater](https://github.com/kizitonwose/PodsUpdater) ⭐ 523 | 🐛 1 | 🌐 Swift | 📅 2019-03-17) - A macOS app which helps you manage dependency releases in your Podfile. [![Open-Source Software][OSS Icon]](https://github.com/kizitonwose/PodsUpdater) ⭐ 523 | 🐛 1 | 🌐 Swift | 📅 2019-03-17 ![Freeware][Freeware Icon]
 * 🌎 [ImageAlpha](pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ⚠️ Archived ![Freeware][Freeware Icon]
 * <b><code>   361⭐</code></b> <b><code>    17🍴</code></b> [gitbar](https://github.com/Shikkic/gitbar) ⭐ 361 | 🐛 3 | 🌐 JavaScript | 📅 2017-09-15) - Open source github contribution stats on your Menu Bar. [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ⭐ 361 | 🐛 3 | 🌐 JavaScript | 📅 2017-09-15 ![Freeware][Freeware Icon]
-* <b><code>   253⭐</code></b> <b><code>    10🍴</code></b> [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) ⭐ 253 | 🐛 1 | 🌐 Swift | 📅 2026-07-03) - Native macOS app for managing SSH keys and SSH config entries. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ⭐ 253 | 🐛 1 | 🌐 Swift | 📅 2026-07-03 ![Freeware][Freeware Icon]
+* <b><code>   253⭐</code></b> <b><code>    10🍴</code></b> [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) ⭐ 254 | 🐛 1 | 🌐 Swift | 📅 2026-07-03) - Native macOS app for managing SSH keys and SSH config entries. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ⭐ 254 | 🐛 1 | 🌐 Swift | 📅 2026-07-03 ![Freeware][Freeware Icon]
 * <b><code>   150⭐</code></b> <b><code>    11🍴</code></b> [Iconology](https://github.com/liamrosenfeld/Iconology) ⭐ 150 | 🐛 3 | 🌐 Swift | 📅 2023-01-31) - Edit Icons and then Export to Xcode, Icns, Ico, Favicon, Mac Iconset, or a Custom List of Sizes. [![Open-Source Software][OSS Icon]](https://github.com/liamrosenfeld/Iconology) ⭐ 150 | 🐛 3 | 🌐 Swift | 📅 2023-01-31 ![Freeware][Freeware Icon]
 * <b><code>   101⭐</code></b> <b><code>     1🍴</code></b> [TopOff](https://github.com/ihazgithub/TopOff) ⭐ 101 | 🐛 1 | 🌐 Swift | 📅 2026-09-28) - Menu bar app for Homebrew — full beer mug when packages are fresh, half mug when it's time to refill. [![Open-Source Software][OSS Icon]](https://github.com/ihazgithub/TopOff) ⭐ 101 | 🐛 1 | 🌐 Swift | 📅 2026-09-28 ![Freeware][Freeware Icon]
 * [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
@@ -142,9 +142,9 @@
 
 ### Editors
 
-* 🌎 [TextMate](macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ⭐ 14,574 | 🐛 22 | 🌐 Objective-C++ | 📅 2024-05-18
-* 🌎 [CotEditor](coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ⭐ 8,630 | 🐛 13 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
-* <b><code>  7886⭐</code></b> <b><code>   692🍴</code></b> [MacVim](https://github.com/macvim-dev/macvim) ⭐ 7,889 | 🐛 214 | 🌐 Vim Script | 📅 2026-10-23) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ⭐ 7,889 | 🐛 214 | 🌐 Vim Script | 📅 2026-10-23 ![Freeware][Freeware Icon]
+* 🌎 [TextMate](macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ⭐ 14,576 | 🐛 22 | 🌐 Objective-C++ | 📅 2024-05-18
+* 🌎 [CotEditor](coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ⭐ 8,632 | 🐛 12 | 🌐 Swift | 📅 2026-10-27 ![Freeware][Freeware Icon]
+* <b><code>  7889⭐</code></b> <b><code>   691🍴</code></b> [MacVim](https://github.com/macvim-dev/macvim) ⭐ 7,889 | 🐛 214 | 🌐 Vim Script | 📅 2026-10-23) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ⭐ 7,889 | 🐛 214 | 🌐 Vim Script | 📅 2026-10-23 ![Freeware][Freeware Icon]
 * [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr) ⭐ 7,011 | 🐛 313 | 🌐 Swift | 📅 2026-10-10 ![Freeware][Freeware Icon]
 * 🌎 [Itsypad](itsypad.app) - Lightweight scratchpad with syntax highlighting for 185+ languages and clipboard history manager. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsypad-macos) ⭐ 442 | 🐛 19 | 🌐 Swift | 📅 2026-08-15 ![Freeware][Freeware Icon]
 * 🌎 [Emacs](www.emacswiki.org/emacs/EmacsForMacOS) - Port of Emacs to work as an macOS app. [![Open-Source Software][OSS Icon]](https://emacsformacosx.com/download/emacs-sources/) ![Freeware][Freeware Icon]
@@ -159,7 +159,7 @@
 
 ### Finder
 
-* <b><code> 18791⭐</code></b> <b><code>   551🍴</code></b> [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) ⭐ 18,793 | 🐛 5 | 📅 2026-07-25) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
+* <b><code> 18793⭐</code></b> <b><code>   552🍴</code></b> [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) ⭐ 18,794 | 🐛 5 | 📅 2026-07-25) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
 * 🌎 [ForkLift](itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) - File Manager and FTP/SFTP/WebDAV/Amazon S3 client.
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - A powerful dual-pane browser alternative to Finder.
 * 🌎 [Pathly](pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
@@ -168,8 +168,8 @@
 
 ### Games
 
-* [OpenEmu](http://openemu.org/) - Multiple Video Game System. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ⭐ 17,851 | 🐛 432 | 🌐 Swift | 📅 2025-10-22 ![Freeware][Freeware Icon]
-* 🌎 [Dolphin](dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) ⭐ 15,718 | 🐛 482 | 🌐 C++ | 📅 2026-10-25 ![Freeware][Freeware Icon]
+* [OpenEmu](http://openemu.org/) - Multiple Video Game System. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ⭐ 17,853 | 🐛 432 | 🌐 Swift | 📅 2025-10-22 ![Freeware][Freeware Icon]
+* 🌎 [Dolphin](dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) ⭐ 15,723 | 🐛 484 | 🌐 C++ | 📅 2026-10-25 ![Freeware][Freeware Icon]
 * [Screentendo](http://aaronrandall.com/blog/screentendo/) - Turn your screen into a playable level of Mario. [![Open-Source Software][OSS Icon]](https://github.com/AaronRandall/Screentendo) ⭐ 1,097 | 🐛 1 | 🌐 Objective-C | 📅 2015-05-26 ![Freeware][Freeware Icon]
 * [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac. [![Open-Source Software][OSS Icon]](https://github.com/alunbestor/Boxer) ⭐ 795 | 🐛 54 | 🌐 Objective-C | 📅 2021-10-24 ![Freeware][Freeware Icon]
 * [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. [![Open-Source Software][OSS Icon]](https://github.com/daylen/stockfish-mac) ⭐ 545 | 🐛 50 | 🌐 C++ | 📅 2026-09-30 ![Freeware][Freeware Icon]
@@ -193,7 +193,7 @@
 
 ### News Readers
 
-* 🌎 [NetNewsWire](ranchero.com/netnewswire/) - A classic RSS reader reacquired by its original author and rewritten for modern macOS. [![Open-Source Software][OSS Icon]](https://github.com/brentsimmons/NetNewsWire) ⭐ 10,484 | 🐛 642 | 🌐 Swift | 📅 2026-10-25 ![Freeware][Freeware Icon]
+* 🌎 [NetNewsWire](ranchero.com/netnewswire/) - A classic RSS reader reacquired by its original author and rewritten for modern macOS. [![Open-Source Software][OSS Icon]](https://github.com/brentsimmons/NetNewsWire) ⭐ 10,483 | 🐛 643 | 🌐 Swift | 📅 2026-10-25 ![Freeware][Freeware Icon]
 * [Vienna](http://viennarss.github.io/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ⭐ 1,978 | 🐛 58 | 🌐 Objective-C | 📅 2026-10-25 ![Freeware][Freeware Icon]
 * 🌎 [hacker-menu](hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/hacker-menu) ⭐ 999 | 🐛 10 | 🌐 JavaScript | 📅 2018-10-10 ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - Have all your Instapaper, Pocket, etc. feeds in one place even when you're offline.
@@ -201,18 +201,18 @@
 
 ### Productivity
 
-* 🌎 [NoteGen](notegen.top/) - Local-first Markdown notes app with capture, editing, file management, canvas, and optional sync. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ⭐ 12,915 | 🐛 65 | 🌐 TypeScript | 📅 2026-10-26
-* 🌎 [MeetingBar](meetingbar.onrender.com) - Your meetings in MacOS status bar [![Open-Source Software][OSS Icon]](https://github.com/leits/MeetingBar) ⭐ 5,386 | 🐛 119 | 🌐 Swift | 📅 2026-10-22 ![Freeware][Freeware Icon]
-* 🌎 [SelfControl](selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/) ⭐ 4,416 | 🐛 308 | 🌐 Objective-C | 📅 2026-06-26 ![Freeware][Freeware Icon]
-* 🌎 [ItsyCal](www.mowglii.com/itsycal/) - A tiny menubar calendar to display your Mac Calendar app events. [![Open-Source Software][OSS Icon]](https://github.com/sfsam/Itsycal) ⭐ 4,035 | 🐛 91 | 🌐 Objective-C | 📅 2026-10-13 ![Freeware][Freeware Icon]
+* 🌎 [NoteGen](notegen.top/) - Local-first Markdown notes app with capture, editing, file management, canvas, and optional sync. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ⭐ 12,924 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-27
+* 🌎 [MeetingBar](meetingbar.onrender.com) - Your meetings in MacOS status bar [![Open-Source Software][OSS Icon]](https://github.com/leits/MeetingBar) ⭐ 5,389 | 🐛 120 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
+* 🌎 [SelfControl](selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/) ⭐ 4,419 | 🐛 308 | 🌐 Objective-C | 📅 2026-06-26 ![Freeware][Freeware Icon]
+* 🌎 [ItsyCal](www.mowglii.com/itsycal/) - A tiny menubar calendar to display your Mac Calendar app events. [![Open-Source Software][OSS Icon]](https://github.com/sfsam/Itsycal) ⭐ 4,038 | 🐛 91 | 🌐 Objective-C | 📅 2026-10-13 ![Freeware][Freeware Icon]
 * 🌎 [Karabiner](pqrs.org/osx/karabiner/) - A powerful keyboard customizer. [![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ⚠️ Archived ![Freeware][Freeware Icon]
 * 🌎 [Quicksilver](qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon]](https://github.com/quicksilver/Quicksilver) ⭐ 2,943 | 🐛 83 | 🌐 Objective-C | 📅 2026-10-24 ![Freeware][Freeware Icon]
 * [Telephone](http://www.64characters.com/telephone/) - A SIP softphone. Make phone calls over the Internet or your company’s network. [![Open-Source Software][OSS Icon]](https://github.com/eofster/Telephone) ⭐ 1,177 | 🐛 133 | 🌐 Swift | 📅 2026-10-13 ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ⭐ 937 | 🐛 37 | 🌐 Objective-C | 📅 2020-08-02 ![Freeware][Freeware Icon]
-* <b><code>   345⭐</code></b> <b><code>    26🍴</code></b> [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) ⭐ 345 | 🐛 7 | 🌐 Swift | 📅 2026-10-22) - A nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) ⭐ 345 | 🐛 7 | 🌐 Swift | 📅 2026-10-22
-* 🌎 [Keyty](keyty.app) - Keystroke and mouse-click visualizer for demos, screen recordings, presentations, and livestreams. [![Open-Source Software][OSS Icon]](https://github.com/keytyapp/Keyty) ⭐ 264 | 🐛 4 | 🌐 Swift | 📅 2026-10-21 ![Freeware][Freeware Icon]
-* <b><code>   250⭐</code></b> <b><code>    27🍴</code></b> [Clipbara](https://github.com/mobrava/Clipbara) ⭐ 251 | 🐛 16 | 🌐 Swift | 📅 2026-10-23) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ⭐ 251 | 🐛 16 | 🌐 Swift | 📅 2026-10-23 ![Freeware][Freeware Icon]
-* 🌎 [ScreenTranslate](screentranslate.filient.ai/) - Capture any area or select text to translate instantly, fully on-device. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ⭐ 85 | 🐛 3 | 🌐 Swift | 📅 2026-10-25 ![Freeware][Freeware Icon]
+* <b><code>   345⭐</code></b> <b><code>    26🍴</code></b> [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) ⭐ 345 | 🐛 6 | 🌐 Swift | 📅 2026-10-26) - A nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) ⭐ 345 | 🐛 6 | 🌐 Swift | 📅 2026-10-26
+* 🌎 [Keyty](keyty.app) - Keystroke and mouse-click visualizer for demos, screen recordings, presentations, and livestreams. [![Open-Source Software][OSS Icon]](https://github.com/keytyapp/Keyty) ⭐ 265 | 🐛 4 | 🌐 Swift | 📅 2026-10-21 ![Freeware][Freeware Icon]
+* <b><code>   251⭐</code></b> <b><code>    27🍴</code></b> [Clipbara](https://github.com/mobrava/Clipbara) ⭐ 251 | 🐛 15 | 🌐 Swift | 📅 2026-10-23) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ⭐ 251 | 🐛 15 | 🌐 Swift | 📅 2026-10-23 ![Freeware][Freeware Icon]
+* 🌎 [ScreenTranslate](screentranslate.filient.ai/) - Capture any area or select text to translate instantly, fully on-device. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ⭐ 84 | 🐛 3 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
 * 🌎 [Alfred](www.alfredapp.com/) - Boosts your efficiency and productivity.
 * 🌎 [BetterTouchTool](folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 * [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
@@ -245,7 +245,7 @@
 
 ### Sharing Files
 
-* 🌎 [Transmission](www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ⭐ 15,349 | 🐛 896 | 🌐 C++ | 📅 2026-10-25 ![Freeware][Freeware Icon]
+* 🌎 [Transmission](www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ⭐ 15,355 | 🐛 898 | 🌐 C++ | 📅 2026-10-25 ![Freeware][Freeware Icon]
 * <b><code>   953⭐</code></b> <b><code>    98🍴</code></b> [mac2imgur](https://github.com/mileswd/mac2imgur) ⭐ 953 | 🐛 24 | 🌐 Swift | 📅 2019-02-16) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur) ⭐ 953 | 🐛 24 | 🌐 Swift | 📅 2019-02-16 ![Freeware][Freeware Icon]
 * 🌎 [CloudApp](www.getcloudapp.com/) - Capture and share files and screenshots instantly.
 * 🌎 [Jumpshare](itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
@@ -253,51 +253,51 @@
 
 ### Terminal
 
-* 🌎 [iTerm 2](www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ⭐ 18,218 | 🐛 78 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
+* 🌎 [iTerm 2](www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ⭐ 18,219 | 🐛 78 | 🌐 Swift | 📅 2026-10-27 ![Freeware][Freeware Icon]
 
 ### Utilities
 
-* <b><code> 34548⭐</code></b> <b><code>  1031🍴</code></b> [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,567 | 🐛 28 | 🌐 Swift | 📅 2026-10-14) - Control your display's brightness and volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl) ⭐ 34,567 | 🐛 28 | 🌐 Swift | 📅 2026-10-14
-* <b><code> 18080⭐</code></b> <b><code>   652🍴</code></b> [BitBar](https://github.com/matryer/bitbar) ⭐ 18,078 | 🐛 188 | 🌐 Go | 📅 2024-09-10) - Display output of any script to the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ⭐ 18,078 | 🐛 188 | 🌐 Go | 📅 2024-09-10 ![Freeware][Freeware Icon]
-* <b><code> 15347⭐</code></b> <b><code>   943🍴</code></b> [Mackup](https://github.com/lra/mackup) ⭐ 15,352 | 🐛 292 | 🌐 Python | 📅 2026-09-09) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ⭐ 15,352 | 🐛 292 | 🌐 Python | 📅 2026-09-09 ![Freeware][Freeware Icon]
-* <b><code> 11126⭐</code></b> <b><code>  1131🍴</code></b> [Boring Notch](https://github.com/TheBoredTeam/boring.notch) ⭐ 11,140 | 🐛 411 | 🌐 Swift | 📅 2026-10-26) - Turns your MacBook notch into a dynamic hub with media controls, calendar integration, and more. [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ⭐ 11,140 | 🐛 411 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
+* <b><code> 34568⭐</code></b> <b><code>  1032🍴</code></b> [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,577 | 🐛 29 | 🌐 Swift | 📅 2026-10-14) - Control your display's brightness and volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl) ⭐ 34,577 | 🐛 29 | 🌐 Swift | 📅 2026-10-14
+* <b><code> 18078⭐</code></b> <b><code>   651🍴</code></b> [BitBar](https://github.com/matryer/bitbar) ⭐ 18,079 | 🐛 188 | 🌐 Go | 📅 2024-09-10) - Display output of any script to the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ⭐ 18,079 | 🐛 188 | 🌐 Go | 📅 2024-09-10 ![Freeware][Freeware Icon]
+* <b><code> 15352⭐</code></b> <b><code>   943🍴</code></b> [Mackup](https://github.com/lra/mackup) ⭐ 15,353 | 🐛 292 | 🌐 Python | 📅 2026-09-09) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ⭐ 15,353 | 🐛 292 | 🌐 Python | 📅 2026-09-09 ![Freeware][Freeware Icon]
+* <b><code> 11142⭐</code></b> <b><code>  1133🍴</code></b> [Boring Notch](https://github.com/TheBoredTeam/boring.notch) ⭐ 11,155 | 🐛 412 | 🌐 Swift | 📅 2026-10-27) - Turns your MacBook notch into a dynamic hub with media controls, calendar integration, and more. [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ⭐ 11,155 | 🐛 412 | 🌐 Swift | 📅 2026-10-27 ![Freeware][Freeware Icon]
 * [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ⭐ 9,846 | 🐛 578 | 🌐 Rich Text Format | 📅 2023-07-10 ![Freeware][Freeware Icon]
-* <b><code>  8719⭐</code></b> <b><code>   310🍴</code></b> [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,720 | 🐛 102 | 🌐 Swift | 📅 2023-11-30) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon]](https://github.com/Mortennn/Dozer) ⭐ 8,720 | 🐛 102 | 🌐 Swift | 📅 2023-11-30 ![Freeware][Freeware Icon]
-* <b><code>  7373⭐</code></b> <b><code>   424🍴</code></b> [PureMac](https://github.com/momenbasel/PureMac) ⭐ 7,409 | 🐛 6 | 🌐 Swift | 📅 2026-10-26) - Free and open-source macOS cleaner that removes system caches, Xcode junk, Homebrew cache, and more with no telemetry or network calls. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ⭐ 7,409 | 🐛 6 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
-* <b><code>  7006⭐</code></b> <b><code>   275🍴</code></b> [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) ⭐ 7,013 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-15) - Menu bar utility that prevents Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake) ⭐ 7,013 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-15 ![Freeware][Freeware Icon]
-* 🌎 [MacPass](macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ⭐ 6,888 | 🐛 296 | 🌐 Objective-C | 📅 2026-10-03 ![Freeware][Freeware Icon]
+* <b><code>  8720⭐</code></b> <b><code>   310🍴</code></b> [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,720 | 🐛 102 | 🌐 Swift | 📅 2023-11-30) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon]](https://github.com/Mortennn/Dozer) ⭐ 8,720 | 🐛 102 | 🌐 Swift | 📅 2023-11-30 ![Freeware][Freeware Icon]
+* <b><code>  7410⭐</code></b> <b><code>   427🍴</code></b> [PureMac](https://github.com/momenbasel/PureMac) ⭐ 7,430 | 🐛 6 | 🌐 Swift | 📅 2026-10-27) - Free and open-source macOS cleaner that removes system caches, Xcode junk, Homebrew cache, and more with no telemetry or network calls. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ⭐ 7,430 | 🐛 6 | 🌐 Swift | 📅 2026-10-27 ![Freeware][Freeware Icon]
+* <b><code>  7013⭐</code></b> <b><code>   275🍴</code></b> [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) ⭐ 7,014 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-15) - Menu bar utility that prevents Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake) ⭐ 7,014 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-15 ![Freeware][Freeware Icon]
+* 🌎 [MacPass](macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ⭐ 6,889 | 🐛 296 | 🌐 Objective-C | 📅 2026-10-26 ![Freeware][Freeware Icon]
 * <b><code>  6040⭐</code></b> <b><code>   158🍴</code></b> [AnyBar](https://github.com/tonsky/AnyBar) ⭐ 6,040 | 🐛 16 | 🌐 Objective-C | 📅 2026-03-21) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ⭐ 6,040 | 🐛 16 | 🌐 Objective-C | 📅 2026-03-21 ![Freeware][Freeware Icon]
 * <b><code>  5539⭐</code></b> <b><code>   360🍴</code></b> [ShiftIt](https://github.com/fikovnik/ShiftIt) ⭐ 5,539 | 🐛 165 | 🌐 Objective-C | 📅 2023-11-20) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ⭐ 5,539 | 🐛 165 | 🌐 Objective-C | 📅 2023-11-20 ![Freeware][Freeware Icon]
-* 🌎 [Finicky](johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ⭐ 5,214 | 🐛 61 | 🌐 Go | 📅 2026-09-16 ![Freeware][Freeware Icon]
-* [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ⭐ 5,007 | 🐛 172 | 🌐 Objective-C | 📅 2025-06-28 ![Freeware][Freeware Icon]
-* <b><code>  4219⭐</code></b> <b><code>   404🍴</code></b> [RDM](https://github.com/avibrazil/RDM) ⚠️ Archived) - Easily set Mac Retina display to higher unsupported resolutions. [![Open-Source Software][OSS Icon]](https://github.com/avibrazil/RDM) ⚠️ Archived
-* <b><code>  3918⭐</code></b> <b><code>    81🍴</code></b> [Wineskin](https://github.com/Gcenx/WineskinServer) ⭐ 3,931 | 🐛 58 | 📅 2026-10-18) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Gcenx/WineskinServer) ⭐ 3,931 | 🐛 58 | 📅 2026-10-18 ![Freeware][Freeware Icon]
-* <b><code>  3585⭐</code></b> <b><code>   247🍴</code></b> [Helium](https://github.com/JadenGeller/Helium) ⚠️ Archived) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium) ⚠️ Archived ![Freeware][Freeware Icon]
-* [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters) ⭐ 3,083 | 🐛 108 | 🌐 Objective-C | 📅 2024-05-20
+* 🌎 [Finicky](johnste.github.io/finicky/) - App that allows you to set rules that decide which browser is opened for every link. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ⭐ 5,216 | 🐛 61 | 🌐 Go | 📅 2026-09-16 ![Freeware][Freeware Icon]
+* [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ⭐ 5,006 | 🐛 172 | 🌐 Objective-C | 📅 2025-06-28 ![Freeware][Freeware Icon]
+* <b><code>  4218⭐</code></b> <b><code>   403🍴</code></b> [RDM](https://github.com/avibrazil/RDM) ⚠️ Archived) - Easily set Mac Retina display to higher unsupported resolutions. [![Open-Source Software][OSS Icon]](https://github.com/avibrazil/RDM) ⚠️ Archived
+* <b><code>  3931⭐</code></b> <b><code>    82🍴</code></b> [Wineskin](https://github.com/Gcenx/WineskinServer) ⭐ 3,939 | 🐛 59 | 📅 2026-10-18) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Gcenx/WineskinServer) ⭐ 3,939 | 🐛 59 | 📅 2026-10-18 ![Freeware][Freeware Icon]
+* <b><code>  3584⭐</code></b> <b><code>   247🍴</code></b> [Helium](https://github.com/JadenGeller/Helium) ⚠️ Archived) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium) ⚠️ Archived ![Freeware][Freeware Icon]
+* [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters) ⭐ 3,084 | 🐛 108 | 🌐 Objective-C | 📅 2024-05-20
 * <b><code>  2839⭐</code></b> <b><code>   266🍴</code></b> [BeardedSpice](https://github.com/beardedspice/beardedspice) ⭐ 2,839 | 🐛 399 | 🌐 Objective-C | 📅 2021-05-12) - Control web based media players with the media keys found on Mac keyboards. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ⭐ 2,839 | 🐛 399 | 🌐 Objective-C | 📅 2021-05-12 ![Freeware][Freeware Icon]
 * 🌎 [Equinox](equinoxmac.com) - Create macOS dynamic wallpapers. [![Open-Source Software][OSS Icon]](https://github.com/rlxone/Equinox) ⭐ 2,139 | 🐛 18 | 🌐 Swift | 📅 2026-09-25 ![Freeware][Freeware Icon]
-* [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ⭐ 2,112 | 🐛 128 | 🌐 Swift | 📅 2026-10-17 ![Freeware][Freeware Icon]
+* [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ⭐ 2,113 | 🐛 128 | 🌐 Swift | 📅 2026-10-17 ![Freeware][Freeware Icon]
 * [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ⭐ 1,822 | 🐛 54 | 🌐 Swift | 📅 2026-07-25 ![Freeware][Freeware Icon]
-* 🌎 [gfxCardStatus](gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus) ⭐ 1,714 | 🐛 30 | 🌐 Objective-C | 📅 2021-07-10 ![Freeware][Freeware Icon]
-* <b><code>  1544⭐</code></b> <b><code>   113🍴</code></b> [Kawa](https://github.com/noraesae/kawa) ⭐ 1,543 | 🐛 7 | 🌐 Swift | 📅 2022-08-20) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa) ⭐ 1,543 | 🐛 7 | 🌐 Swift | 📅 2022-08-20 ![Freeware][Freeware Icon]
-* 🌎 [Strongbox](strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) ⭐ 1,471 | 🐛 230 | 🌐 Objective-C | 📅 2026-07-17
-* <b><code>  1448⭐</code></b> <b><code>    51🍴</code></b> [Gray](https://github.com/zenangst/Gray) ⭐ 1,447 | 🐛 21 | 🌐 Swift | 📅 2022-07-22) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray) ⭐ 1,447 | 🐛 21 | 🌐 Swift | 📅 2022-07-22 ![Freeware][Freeware Icon]
+* 🌎 [gfxCardStatus](gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus) ⭐ 1,713 | 🐛 30 | 🌐 Objective-C | 📅 2021-07-10 ![Freeware][Freeware Icon]
+* <b><code>  1543⭐</code></b> <b><code>   114🍴</code></b> [Kawa](https://github.com/noraesae/kawa) ⭐ 1,543 | 🐛 7 | 🌐 Swift | 📅 2022-08-20) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa) ⭐ 1,543 | 🐛 7 | 🌐 Swift | 📅 2022-08-20 ![Freeware][Freeware Icon]
+* 🌎 [Strongbox](strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) ⭐ 1,474 | 🐛 230 | 🌐 Objective-C | 📅 2026-07-17
+* <b><code>  1447⭐</code></b> <b><code>    51🍴</code></b> [Gray](https://github.com/zenangst/Gray) ⭐ 1,447 | 🐛 21 | 🌐 Swift | 📅 2022-07-22) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray) ⭐ 1,447 | 🐛 21 | 🌐 Swift | 📅 2022-07-22 ![Freeware][Freeware Icon]
 * [Fanny](http://fannywidget.com/) - Notification Center widget and menu bar application to monitor your Mac's fans and CPU temperature. [![Open-Source Software][OSS Icon]](https://github.com/DanielStormApps/Fanny) ⭐ 1,388 | 🐛 37 | 🌐 Swift | 📅 2020-05-02 ![Freeware][Freeware Icon]
-* 🌎 [MacPacker](macpacker.app) - Preview and extract archives. Native 7-Zip alternative. [![Open-Source Software][OSS Icon]](https://github.com/sarensw/MacPacker) ⭐ 1,364 | 🐛 72 | 🌐 Swift | 📅 2026-10-24 ![Freeware][Freeware Icon]
+* 🌎 [MacPacker](macpacker.app) - Preview and extract archives. Native 7-Zip alternative. [![Open-Source Software][OSS Icon]](https://github.com/sarensw/MacPacker) ⭐ 1,376 | 🐛 74 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
 * <b><code>  1362⭐</code></b> <b><code>   150🍴</code></b> [DisableMonitor](https://github.com/Eun/DisableMonitor) ⚠️ Archived) - Easily disable or enable a monitor on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Eun/DisableMonitor) ⚠️ Archived ![Freeware][Freeware Icon]
 * <b><code>  1230⭐</code></b> <b><code>    61🍴</code></b> [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) ⭐ 1,230 | 🐛 24 | 🌐 Objective-C | 📅 2020-12-28) - Prevent accidental Cmd-Q. [![Open-Source Software][OSS Icon]](https://github.com/dteoh/SlowQuitApps) ⭐ 1,230 | 🐛 24 | 🌐 Objective-C | 📅 2020-12-28 ![Freeware][Freeware Icon]
-* 🌎 [Itsyhome](itsyhome.app) - Control HomeKit and Home Assistant smart home devices from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) ⭐ 1,000 | 🐛 25 | 🌐 Swift | 📅 2026-09-01 ![Freeware][Freeware Icon]
+* 🌎 [Itsyhome](itsyhome.app) - Control HomeKit and Home Assistant smart home devices from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) ⭐ 1,001 | 🐛 26 | 🌐 Swift | 📅 2026-09-01 ![Freeware][Freeware Icon]
 * 🌎 [Noti](noti.center/) - Receive Android notifications on your mac (with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti/) ⚠️ Archived ![Freeware][Freeware Icon]
-* <b><code>   664⭐</code></b> <b><code>    29🍴</code></b> [Harbor](https://github.com/thsnkhn/harbor) ⭐ 667 | 🐛 36 | 🌐 Swift | 📅 2026-10-20) - Download manager for direct downloads, magnet links, and `.torrent` files. [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ⭐ 667 | 🐛 36 | 🌐 Swift | 📅 2026-10-20 ![Freeware][Freeware Icon]
-* 🌎 [Itsytv](itsytv.app) - Control your Apple TV from the menu bar with remote, now playing widget, and app launcher. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ⭐ 648 | 🐛 4 | 🌐 Swift | 📅 2026-10-13 ![Freeware][Freeware Icon]
-* [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ⭐ 617 | 🐛 8 | 🌐 Objective-C | 📅 2020-11-17 ![Freeware][Freeware Icon]
+* <b><code>   667⭐</code></b> <b><code>    32🍴</code></b> [Harbor](https://github.com/thsnkhn/harbor) ⭐ 668 | 🐛 35 | 🌐 Swift | 📅 2026-10-20) - Download manager for direct downloads, magnet links, and `.torrent` files. [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ⭐ 668 | 🐛 35 | 🌐 Swift | 📅 2026-10-20 ![Freeware][Freeware Icon]
+* 🌎 [Itsytv](itsytv.app) - Control your Apple TV from the menu bar with remote, now playing widget, and app launcher. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ⭐ 648 | 🐛 5 | 🌐 Swift | 📅 2026-10-13 ![Freeware][Freeware Icon]
+* [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ⭐ 616 | 🐛 8 | 🌐 Objective-C | 📅 2020-11-17 ![Freeware][Freeware Icon]
 * <b><code>   333⭐</code></b> <b><code>    26🍴</code></b> [APNGb](https://github.com/mancunianetz/APNGb) ⭐ 333 | 🐛 6 | 🌐 Swift | 📅 2019-11-15) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ⭐ 333 | 🐛 6 | 🌐 Swift | 📅 2019-11-15 ![Freeware][Freeware Icon]
 * [Irvue](http://irvue.tumblr.com) - Thousands of stunning photos and wallpapers from Unsplash on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/leonspok/Irvue-Screensaver) ⚠️ Archived ![Freeware][Freeware Icon]
 * <b><code>   187⭐</code></b> <b><code>    14🍴</code></b> [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) ⭐ 187 | 🐛 6 | 🌐 Swift | 📅 2022-03-22) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors) ⭐ 187 | 🐛 6 | 🌐 Swift | 📅 2022-03-22 ![Freeware][Freeware Icon]
 * <b><code>   182⭐</code></b> <b><code>    10🍴</code></b> [Artify](https://github.com/NghiaTranUIT/artify-macos) ⭐ 182 | 🐛 8 | 🌐 Swift | 📅 2019-03-02) - A macOS X application for bringing dedicatedly 18th century Arts to everyone. [![Open-Source Software][OSS Icon]](https://github.com/NghiaTranUIT/artify-macos) ⭐ 182 | 🐛 8 | 🌐 Swift | 📅 2019-03-02 ![Freeware][Freeware Icon]
-* <b><code>   115⭐</code></b> <b><code>    17🍴</code></b> [Sleepless](https://github.com/Aboudjem/Sleepless) ⭐ 117 | 🐛 11 | 🌐 Swift | 📅 2026-06-03) - Menu bar utility that keeps your MacBook awake with the lid closed on battery, with a battery-floor auto-off. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless) ⭐ 117 | 🐛 11 | 🌐 Swift | 📅 2026-06-03 ![Freeware][Freeware Icon]
+* <b><code>   118⭐</code></b> <b><code>    18🍴</code></b> [Sleepless](https://github.com/Aboudjem/Sleepless) ⭐ 119 | 🐛 11 | 🌐 Swift | 📅 2026-06-03) - Menu bar utility that keeps your MacBook awake with the lid closed on battery, with a battery-floor auto-off. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless) ⭐ 119 | 🐛 11 | 🌐 Swift | 📅 2026-06-03 ![Freeware][Freeware Icon]
 * 🌎 [Pulse](www.pulseticker.app/) - Native menu bar market tracker for stocks, cryptocurrencies, indices, ETFs, and portfolio P\&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ⭐ 114 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 ![Freeware][Freeware Icon]
-* <b><code>   106⭐</code></b> <b><code>     4🍴</code></b> [Holeberry](https://github.com/pedrovieira/Holeberry) ⭐ 107 | 🐛 3 | 🌐 Swift | 📅 2026-10-25) - A native macOS menu bar app to monitor and control your Pi-hole instances. [![Open-Source Software][OSS Icon]](https://github.com/pedrovieira/Holeberry) ⭐ 107 | 🐛 3 | 🌐 Swift | 📅 2026-10-25 ![Freeware][Freeware Icon]
+* <b><code>   107⭐</code></b> <b><code>     4🍴</code></b> [Holeberry](https://github.com/pedrovieira/Holeberry) ⭐ 107 | 🐛 3 | 🌐 Swift | 📅 2026-10-25) - A native macOS menu bar app to monitor and control your Pi-hole instances. [![Open-Source Software][OSS Icon]](https://github.com/pedrovieira/Holeberry) ⭐ 107 | 🐛 3 | 🌐 Swift | 📅 2026-10-25 ![Freeware][Freeware Icon]
 * <b><code>    18⭐</code></b> <b><code>     0🍴</code></b> [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner) ⭐ 18 | 🐛 0 | 🌐 C# | 📅 2018-12-18) - Automatically removes text formatting from the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/Zuehlke/Clipboard_Cleaner) ⭐ 18 | 🐛 0 | 🌐 C# | 📅 2018-12-18 ![Freeware][Freeware Icon]
 * 🌎 [1Password](1password.com) - Password Manager and Secure Wallet.
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily. ![Freeware][Freeware Icon]
@@ -345,21 +345,21 @@
 
 ### Video
 
-* 🌎 [IINA](lhc70000.github.io/iina/) - Media player with a minimalist design. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ⭐ 46,915 | 🐛 1,986 | 🌐 Swift | 📅 2026-10-25 ![Freeware][Freeware Icon]
-* 🌎 [mpv](mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ⭐ 37,569 | 🐛 1,157 | 🌐 C | 📅 2026-10-24
-* 🌎 [HandBrake](handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ⭐ 24,786 | 🐛 291 | 🌐 C | 📅 2026-10-26
+* 🌎 [IINA](lhc70000.github.io/iina/) - Media player with a minimalist design. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ⭐ 46,924 | 🐛 1,981 | 🌐 Swift | 📅 2026-10-27 ![Freeware][Freeware Icon]
+* 🌎 [mpv](mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ⭐ 37,582 | 🐛 1,159 | 🌐 C | 📅 2026-10-26
+* 🌎 [HandBrake](handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ⭐ 24,794 | 🐛 293 | 🌐 C | 📅 2026-10-26
 * [Subtitlr](http://lucija.frkovic.me/Subtitlr/) - Drag and drop subititle download utility. [![Open-Source Software][OSS Icon]](https://github.com/spilja/Subtitlr/tree/master) ⭐ 88 | 🐛 1 | 🌐 Swift | 📅 2020-03-05
-* 🌎 [Mac Classic Player](mcp.kkweb.io/) - Media player driven by the keyboard, in the spirit of Media Player Classic. [![Open-Source Software][OSS Icon]](https://github.com/piro0919/mac-classic-player) ⭐ 56 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-25 ![Freeware][Freeware Icon]
+* 🌎 [Mac Classic Player](mcp.kkweb.io/) - Media player driven by the keyboard, in the spirit of Media Player Classic. [![Open-Source Software][OSS Icon]](https://github.com/piro0919/mac-classic-player) ⭐ 56 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-26 ![Freeware][Freeware Icon]
 * [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * 🌎 [Subler](bitbucket.org/galad87/subler/wiki/Home) - Mux and tag MP4 files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/galad87/subler/wiki/Home) ![Freeware][Freeware Icon]
 
 ### Window Management
 
-* 🌎 [Rectangle](rectangleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ⭐ 30,156 | 🐛 67 | 🌐 Swift | 📅 2026-10-25 ![Freeware][Freeware Icon]
-* <b><code> 29755⭐</code></b> <b><code>   796🍴</code></b> [yabai](https://github.com/koekeishiya/yabai) ⭐ 29,769 | 🐛 273 | 🌐 C | 📅 2026-06-14) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/yabai) ⭐ 29,769 | 🐛 273 | 🌐 C | 📅 2026-06-14 ![Freeware][Freeware Icon]
-* [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,328 | 🐛 704 | 🌐 Objective-C | 📅 2026-07-08 ![Freeware][Freeware Icon]
-* [Amethyst](http://ianyh.com/amethyst/) - Window manager (automatically keep windows sized in grids). [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ⭐ 16,305 | 🐛 294 | 🌐 Swift | 📅 2026-10-20 ![Freeware][Freeware Icon]
-* <b><code>  4545⭐</code></b> <b><code>   126🍴</code></b> [Phoenix](https://github.com/kasper/phoenix) ⭐ 4,545 | 🐛 48 | 🌐 Objective-C | 📅 2025-08-31) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,328 | 🐛 704 | 🌐 Objective-C | 📅 2026-07-08 ![Freeware][Freeware Icon]
+* 🌎 [Rectangle](rectangleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ⭐ 30,166 | 🐛 65 | 🌐 Swift | 📅 2026-10-27 ![Freeware][Freeware Icon]
+* <b><code> 29769⭐</code></b> <b><code>   797🍴</code></b> [yabai](https://github.com/koekeishiya/yabai) ⭐ 29,774 | 🐛 273 | 🌐 C | 📅 2026-06-14) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/yabai) ⭐ 29,774 | 🐛 273 | 🌐 C | 📅 2026-06-14 ![Freeware][Freeware Icon]
+* [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,331 | 🐛 705 | 🌐 Objective-C | 📅 2026-07-08 ![Freeware][Freeware Icon]
+* [Amethyst](http://ianyh.com/amethyst/) - Window manager (automatically keep windows sized in grids). [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ⭐ 16,303 | 🐛 294 | 🌐 Swift | 📅 2026-10-20 ![Freeware][Freeware Icon]
+* <b><code>  4545⭐</code></b> <b><code>   126🍴</code></b> [Phoenix](https://github.com/kasper/phoenix) ⭐ 4,545 | 🐛 48 | 🌐 Objective-C | 📅 2025-08-31) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,331 | 🐛 705 | 🌐 Objective-C | 📅 2026-07-08 ![Freeware][Freeware Icon]
 * [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 * 🌎 [Hummingbird](hummingbirdapp.site/) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 * 🌎 [Moom](manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
@@ -369,8 +369,8 @@
 
 ### Others
 
-* <b><code> 21046⭐</code></b> <b><code>  1034🍴</code></b> [Aerial](https://github.com/JohnCoates/Aerial) ⭐ 21,094 | 🐛 18 | 🌐 Swift | 📅 2026-05-16) - Apple TV Aerial Screensaver for Mac. [![Open-Source Software][OSS Icon]](https://github.com/JohnCoates/Aerial) ⭐ 21,094 | 🐛 18 | 🌐 Swift | 📅 2026-05-16 ![Freeware][Freeware Icon]
-* <b><code>   972⭐</code></b> <b><code>   124🍴</code></b> [Sonora](https://github.com/sonoramac/Sonora) ⭐ 973 | 🐛 57 | 🌐 Objective-C | 📅 2015-05-13) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ⭐ 973 | 🐛 57 | 🌐 Objective-C | 📅 2015-05-13 ![Freeware][Freeware Icon]
+* <b><code> 21097⭐</code></b> <b><code>  1038🍴</code></b> [Aerial](https://github.com/JohnCoates/Aerial) ⭐ 21,113 | 🐛 19 | 🌐 Swift | 📅 2026-05-16) - Apple TV Aerial Screensaver for Mac. [![Open-Source Software][OSS Icon]](https://github.com/JohnCoates/Aerial) ⭐ 21,113 | 🐛 19 | 🌐 Swift | 📅 2026-05-16 ![Freeware][Freeware Icon]
+* <b><code>   973⭐</code></b> <b><code>   124🍴</code></b> [Sonora](https://github.com/sonoramac/Sonora) ⭐ 973 | 🐛 57 | 🌐 Objective-C | 📅 2015-05-13) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ⭐ 973 | 🐛 57 | 🌐 Objective-C | 📅 2015-05-13 ![Freeware][Freeware Icon]
 * <b><code>   771⭐</code></b> <b><code>    37🍴</code></b> [Juice](https://github.com/brianmichel/Juice) ⭐ 771 | 🐛 8 | 🌐 Swift | 📅 2024-03-30) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ⭐ 771 | 🐛 8 | 🌐 Swift | 📅 2024-03-30 ![Freeware][Freeware Icon]
 * 🌎 [Clocker](itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1\&mt=12) - Check time in multiple timezones from your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/Abhishaker17/Clocker) ⭐ 627 | 🐛 4 | 🌐 Swift | 📅 2026-07-28 ![Freeware][Freeware Icon]
 * [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon]](https://github.com/mipstian/catch/) ⭐ 437 | 🐛 14 | 🌐 Swift | 📅 2023-06-09 ![Freeware][Freeware Icon]
@@ -379,17 +379,17 @@
 
 ## Command Line Utilities
 
-* <b><code> 31034⭐</code></b> <b><code>  1424🍴</code></b> [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived) - Use your macOS terminal shell to do awesome things.
-* <b><code> 12404⭐</code></b> <b><code>   301🍴</code></b> [mas](https://github.com/mas-cli/mas) ⭐ 12,405 | 🐛 91 | 🌐 Swift | 📅 2026-10-20) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ⭐ 12,405 | 🐛 91 | 🌐 Swift | 📅 2026-10-20 ![Freeware][Freeware Icon]
-* <b><code>  9922⭐</code></b> <b><code>   317🍴</code></b> [m-cli](https://github.com/rgcr/m-cli) ⭐ 9,923 | 🐛 14 | 🌐 Shell | 📅 2026-06-02) -  Swiss Army Knife for macOS.
-* <b><code>  9124⭐</code></b> <b><code>   330🍴</code></b> [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) ⭐ 9,125 | 🐛 0 | 🌐 Shell | 📅 2026-02-28) -  macOS command line tools for developers.
-* <b><code>  1034⭐</code></b> <b><code>    51🍴</code></b> [CleanMyMac CLI](https://github.com/MacPaw/cleanmymac-cli) ⭐ 1,037 | 🐛 8 | 📅 2026-08-26) - Clean Xcode, Docker, Homebrew, and developer caches, analyze storage, and reclaim disk space from the terminal.
+* <b><code> 31046⭐</code></b> <b><code>  1424🍴</code></b> [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived) - Use your macOS terminal shell to do awesome things.
+* <b><code> 12404⭐</code></b> <b><code>   301🍴</code></b> [mas](https://github.com/mas-cli/mas) ⭐ 12,405 | 🐛 93 | 🌐 Swift | 📅 2026-10-26) - A CLI for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ⭐ 12,405 | 🐛 93 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
+* <b><code>  9922⭐</code></b> <b><code>   317🍴</code></b> [m-cli](https://github.com/rgcr/m-cli) ⭐ 9,922 | 🐛 14 | 🌐 Shell | 📅 2026-06-02) -  Swiss Army Knife for macOS.
+* <b><code>  9125⭐</code></b> <b><code>   330🍴</code></b> [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) ⭐ 9,126 | 🐛 0 | 🌐 Shell | 📅 2026-02-28) -  macOS command line tools for developers.
+* <b><code>  1037⭐</code></b> <b><code>    51🍴</code></b> [CleanMyMac CLI](https://github.com/MacPaw/cleanmymac-cli) ⭐ 1,039 | 🐛 8 | 📅 2026-08-26) - Clean Xcode, Docker, Homebrew, and developer caches, analyze storage, and reclaim disk space from the terminal.
 * <b><code>   371⭐</code></b> <b><code>    15🍴</code></b> [Mocker](https://github.com/us/mocker) ⭐ 371 | 🐛 0 | 🌐 Swift | 📅 2026-10-25) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ⭐ 371 | 🐛 0 | 🌐 Swift | 📅 2026-10-25 ![Freeware][Freeware Icon]
 * <b><code>   110⭐</code></b> <b><code>     2🍴</code></b> [quokka](https://github.com/dutradotdev/quokka) ⭐ 110 | 🐛 2 | 🌐 Rust | 📅 2026-07-27) - Inspect and clean a USB-connected iPhone from the terminal. No jailbreak required. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ⭐ 110 | 🐛 2 | 🌐 Rust | 📅 2026-07-27 ![Freeware][Freeware Icon]
 
 ## macOS Utilities
 
-* <b><code> 33838⭐</code></b> <b><code>  1839🍴</code></b> [Glances](https://github.com/nicolargo/glances) ⭐ 33,854 | 🐛 111 | 🌐 Python | 📅 2026-10-25) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ⭐ 33,854 | 🐛 111 | 🌐 Python | 📅 2026-10-25 ![Freeware][Freeware Icon]
+* <b><code> 33853⭐</code></b> <b><code>  1839🍴</code></b> [Glances](https://github.com/nicolargo/glances) ⭐ 33,854 | 🐛 111 | 🌐 Python | 📅 2026-10-26) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ⭐ 33,854 | 🐛 111 | 🌐 Python | 📅 2026-10-26 ![Freeware][Freeware Icon]
 * <b><code>   839⭐</code></b> <b><code>    53🍴</code></b> [EnvPane](https://github.com/hschmidt/EnvPane) ⭐ 839 | 🐛 13 | 🌐 Objective-C | 📅 2025-02-21) - An preference pane for environment variables. [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ⭐ 839 | 🐛 13 | 🌐 Objective-C | 📅 2025-02-21 ![Freeware][Freeware Icon]
 * <b><code>    74⭐</code></b> <b><code>     1🍴</code></b> [napwatch](https://github.com/Tuguberk/napwatch) ⭐ 74 | 🐛 0 | 🌐 Rust | 📅 2026-07-19) - A terminal UI for diagnosing and controlling macOS power/battery behavior: dark wakes, Power Nap, and live drain rate. [![Open-Source Software][OSS Icon]](https://github.com/Tuguberk/napwatch) ⭐ 74 | 🐛 0 | 🌐 Rust | 📅 2026-07-19 ![Freeware][Freeware Icon]
 * [Bluetooth Debug Menu](http://www.macobserver.com/tmo/article/os-x-bluetooth-menu-reset-devices) - Factory reset devices and more.
@@ -415,7 +415,7 @@
 
 Ansible playbook to configure a development and desktop environment from a clean macOS install.
 
-* <https://github.com/mpereira/macbook-playbook> ⭐ 226 | 🐛 2 | 🌐 Shell | 📅 2026-10-12
+* <https://github.com/mpereira/macbook-playbook> ⭐ 227 | 🐛 2 | 🌐 Shell | 📅 2026-10-12
 
 ### macOS 10.9 Mavericks Setup
 
@@ -448,18 +448,18 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 ## Security
 
-* <b><code> 22566⭐</code></b> <b><code>  1469🍴</code></b> [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) ⭐ 22,568 | 🐛 5 | 🌐 Shell | 📅 2026-10-25) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) ⭐ 22,568 | 🐛 5 | 🌐 Shell | 📅 2026-10-25
+* <b><code> 22568⭐</code></b> <b><code>  1469🍴</code></b> [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) ⭐ 22,568 | 🐛 5 | 🌐 Shell | 📅 2026-10-25) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) ⭐ 22,568 | 🐛 5 | 🌐 Shell | 📅 2026-10-25
 * <b><code>  4498⭐</code></b> <b><code>   287🍴</code></b> [santa](https://github.com/google/santa) ⚠️ Archived) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ⚠️ Archived ![Freeware][Freeware Icon]
-* 🌎 [Tunnelblick](tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ⭐ 3,294 | 🐛 58 | 🌐 Objective-C | 📅 2026-10-26 ![Freeware][Freeware Icon]
+* 🌎 [Tunnelblick](tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ⭐ 3,295 | 🐛 59 | 🌐 Objective-C | 📅 2026-10-26 ![Freeware][Freeware Icon]
 * <b><code>  1889⭐</code></b> <b><code>   237🍴</code></b> [OSXCollector](https://github.com/Yelp/osxcollector) ⚠️ Archived) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon]](https://github.com/Yelp/osxcollector) ⚠️ Archived ![Freeware][Freeware Icon]
 * <b><code>  1492⭐</code></b> <b><code>    87🍴</code></b> [LinkLiar](https://github.com/halo/LinkLiar) ⭐ 1,492 | 🐛 1 | 🌐 Swift | 📅 2025-08-05) - Menu application written in Swift to help you spoof the MAC addresses of your Wi-Fi and Ethernet interfaces. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ⭐ 1,492 | 🐛 1 | 🌐 Swift | 📅 2025-08-05 ![Freeware][Freeware Icon]
 * <b><code>   826⭐</code></b> <b><code>   141🍴</code></b> [MIDAS](https://github.com/etsy/MIDAS) ⚠️ Archived) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS) ⚠️ Archived
 * 🌎 [ClashX](clashx.tech/) - A rule-based proxy client for macOS with a simple UI. [![Open-Source Software][OSS Icon]](https://github.com/ClashX-Pro/ClashX) ⭐ 796 | 🐛 12 | 🌐 Swift | 📅 2026-10-23 ![Freeware][Freeware Icon]
-* 🌎 [Pareto Security](paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/paretoSecurity/pareto-mac/) ⭐ 459 | 🐛 10 | 🌐 Swift | 📅 2026-10-25
+* 🌎 [Pareto Security](paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/paretoSecurity/pareto-mac/) ⭐ 459 | 🐛 9 | 🌐 Swift | 📅 2026-10-26
 * 🌎 [macchanger by acrogenesis](acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon]](https://github.com/acrogenesis/macchanger) ⭐ 381 | 🐛 1 | 🌐 Ruby | 📅 2026-01-19 ![Freeware][Freeware Icon]
 * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [macchanger by shilch](https://github.com/shilch/macchanger/) ⭐ 278 | 🐛 2 | 🌐 Objective-C | 📅 2025-12-27) - Change / spoof MAC address (random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger) ⭐ 278 | 🐛 2 | 🌐 Objective-C | 📅 2025-12-27
-* 🌎 [Lockpaw](getlockpaw.com) - Locks the screen while letting background tasks, builds, and AI agents keep running. Native macOS menu bar app. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ⭐ 165 | 🐛 6 | 🌐 Swift | 📅 2026-10-21 ![Freeware][Freeware Icon]
-* <b><code>   130⭐</code></b> <b><code>     2🍴</code></b> [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-10-25) - CLI to audit Mac security, system info and manage an SSH fleet of Macs from one machine. [![Open-Source Software][OSS Icon]](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-10-25
+* 🌎 [Lockpaw](getlockpaw.com) - Locks the screen while letting background tasks, builds, and AI agents keep running. Native macOS menu bar app. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ⭐ 165 | 🐛 6 | 🌐 Swift | 📅 2026-10-26 ![Freeware][Freeware Icon]
+* <b><code>   130⭐</code></b> <b><code>     2🍴</code></b> [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-10-26) - CLI to audit Mac security, system info and manage an SSH fleet of Macs from one machine. [![Open-Source Software][OSS Icon]](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-10-26
 * 🌎 [GPG Suite](gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
 * 🌎 [Shimo](www.shimovpn.com) - Fully-featured VPN client for Mac.
 * 🌎 [SimpleumSafe](simpleum.com/) - Encrypt, organize and sync files with macOS or iOS.
@@ -469,7 +469,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 ## Miscellaneous
 
-* <b><code>  4425⭐</code></b> <b><code>   168🍴</code></b> [Awesome Screensavers](https://github.com/aharris88/awesome-osx-screensavers) ⚠️ Archived)
+* <b><code>  4428⭐</code></b> <b><code>   168🍴</code></b> [Awesome Screensavers](https://github.com/aharris88/awesome-osx-screensavers) ⚠️ Archived)
 * 🌎 [Trackpad Gestures](support.apple.com/en-us/HT204895)
 * [Power Tools](http://www.slant.co/topics/523/~power-user-tools-for-mac-osx)
 * [Show hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
@@ -520,8 +520,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Source
 
-<b><code> 19376⭐</code></b> <b><code>  1659🍴</code></b> [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,390 | 🐛 4 | 📅 2026-10-21)
+<b><code> 19390⭐</code></b> <b><code>  1669🍴</code></b> [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,394 | 🐛 7 | 📅 2026-10-21)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
