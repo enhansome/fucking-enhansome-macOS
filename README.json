@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "19380⭐ 785🍴 BackgroundMusic",
+              "title": "19384⭐ 785🍴 BackgroundMusic",
               "description": ") - Record system audio, control audio levels for individual apps, and automatically pauses your music player when other audio starts playing and unpauses it afterwards.",
               "children": [],
               "repo_info": {
@@ -21,7 +21,7 @@
                 "open_issues": 543,
                 "owner": "kyleneideck",
                 "repo": "BackgroundMusic",
-                "stars": 19382,
+                "stars": 19388,
                 "topics": [
                   "audio",
                   "audio-utility",
@@ -76,8 +76,8 @@
                 "id": 1259340424,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-06T13:55:32Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-10T19:48:10Z",
+                "open_issues": 2,
                 "owner": "pantafive",
                 "repo": "fader",
                 "stars": 83,
@@ -123,7 +123,7 @@
                 "id": 792833,
                 "language": "Objective-C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T07:57:46Z",
+                "last_commit": "2026-11-11T08:39:57Z",
                 "open_issues": 0,
                 "owner": "blendbyte",
                 "repo": "Textual",
@@ -181,7 +181,7 @@
                 "open_issues": 367,
                 "owner": "git-up",
                 "repo": "GitUp",
-                "stars": 12159,
+                "stars": 12160,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -202,7 +202,7 @@
                 "open_issues": 213,
                 "owner": "ImageOptim",
                 "repo": "ImageOptim",
-                "stars": 10034,
+                "stars": 10036,
                 "topics": [
                   "accelerator",
                   "gui",
@@ -243,7 +243,7 @@
             },
             {
               "node_type": "item",
-              "title": "8748⭐ 766🍴 WWDC",
+              "title": "8747⭐ 766🍴 WWDC",
               "description": ") - The WWDC app.",
               "children": [],
               "repo_info": {
@@ -257,7 +257,7 @@
                 "open_issues": 23,
                 "owner": "insidegui",
                 "repo": "WWDC",
-                "stars": 8747,
+                "stars": 8748,
                 "topics": [
                   "apple",
                   "developer-experience",
@@ -273,7 +273,7 @@
             },
             {
               "node_type": "item",
-              "title": "8640⭐ 396🍴 Xcodes",
+              "title": "8644⭐ 396🍴 Xcodes",
               "description": ") - Install and switch between multiple versions of Xcode.",
               "children": [],
               "repo_info": {
@@ -283,11 +283,11 @@
                 "id": 315822591,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-13T14:23:14Z",
-                "open_issues": 242,
+                "last_commit": "2026-11-10T19:37:29Z",
+                "open_issues": 233,
                 "owner": "XcodesOrg",
                 "repo": "XcodesApp",
-                "stars": 8644,
+                "stars": 8645,
                 "topics": [
                   "combine",
                   "hacktoberfest",
@@ -312,11 +312,11 @@
                 "id": 3946572,
                 "language": "Makefile",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T06:31:59Z",
+                "last_commit": "2026-11-11T00:26:33Z",
                 "open_issues": 153,
                 "owner": "PostgresApp",
                 "repo": "PostgresApp",
-                "stars": 7787,
+                "stars": 7788,
                 "topics": [
                   "postgis",
                   "postgres"
@@ -326,7 +326,7 @@
             },
             {
               "node_type": "item",
-              "title": "7560⭐ 341🍴 Sequel Ace",
+              "title": "7562⭐ 340🍴 Sequel Ace",
               "description": ") - A MySQL & MariaDB database manager.",
               "children": [],
               "repo_info": {
@@ -337,10 +337,10 @@
                 "language": "Objective-C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T02:33:15Z",
-                "open_issues": 199,
+                "open_issues": 201,
                 "owner": "Sequel-Ace",
                 "repo": "Sequel-Ace",
-                "stars": 7561,
+                "stars": 7563,
                 "topics": [
                   "hacktoberfest",
                   "macos",
@@ -366,11 +366,11 @@
                 "id": 1117891044,
                 "language": "Swift",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-10T08:57:33Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-11T09:02:12Z",
+                "open_issues": 42,
                 "owner": "TableProApp",
                 "repo": "TablePro",
-                "stars": 6437,
+                "stars": 6444,
                 "topics": [
                   "clickhouse",
                   "database",
@@ -412,7 +412,7 @@
                 "open_issues": 28,
                 "owner": "noodlewerk",
                 "repo": "NWPusher",
-                "stars": 6294,
+                "stars": 6295,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -450,7 +450,7 @@
                 "id": 510067764,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T16:13:39Z",
+                "last_commit": "2026-11-10T21:39:42Z",
                 "open_issues": 52,
                 "owner": "buresdv",
                 "repo": "Cork",
@@ -544,7 +544,7 @@
             },
             {
               "node_type": "item",
-              "title": "1936⭐ 87🍴 Touch Bar Simulator",
+              "title": "1935⭐ 87🍴 Touch Bar Simulator",
               "description": ") - The macOS Touch Bar Simulator as a standalone app.",
               "children": [],
               "repo_info": {
@@ -593,7 +593,7 @@
             },
             {
               "node_type": "item",
-              "title": "1627⭐ 121🍴 Hosts",
+              "title": "1627⭐ 122🍴 Hosts",
               "description": ") - Edit hosts file.",
               "children": [],
               "repo_info": {
@@ -628,7 +628,7 @@
                 "open_issues": 85,
                 "owner": "RockxyApp",
                 "repo": "Rockxy",
-                "stars": 1478,
+                "stars": 1485,
                 "topics": [
                   "ai",
                   "api-debugging",
@@ -889,7 +889,7 @@
             },
             {
               "node_type": "item",
-              "title": "100⭐ 1🍴 TopOff",
+              "title": "101⭐ 1🍴 TopOff",
               "description": ") - Menu bar app for Homebrew — full beer mug when packages are fresh, half mug when it's time to refill.",
               "children": [],
               "repo_info": {
@@ -946,7 +946,7 @@
                 "open_issues": 23,
                 "owner": "textmate",
                 "repo": "textmate",
-                "stars": 14579,
+                "stars": 14581,
                 "topics": [
                   "c-plus-plus",
                   "cocoa",
@@ -970,7 +970,7 @@
                 "id": 9243402,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T13:50:24Z",
+                "last_commit": "2026-11-10T13:01:07Z",
                 "open_issues": 11,
                 "owner": "coteditor",
                 "repo": "CotEditor",
@@ -990,7 +990,7 @@
             },
             {
               "node_type": "item",
-              "title": "7892⭐ 691🍴 MacVim",
+              "title": "7893⭐ 691🍴 MacVim",
               "description": ") - Vim, the text editor.",
               "children": [],
               "repo_info": {
@@ -1004,7 +1004,7 @@
                 "open_issues": 214,
                 "owner": "macvim-dev",
                 "repo": "macvim",
-                "stars": 7893,
+                "stars": 7895,
                 "topics": [
                   "macos",
                   "macvim",
@@ -1029,7 +1029,7 @@
                 "open_issues": 313,
                 "owner": "qvacua",
                 "repo": "vimr",
-                "stars": 7015,
+                "stars": 7016,
                 "topics": [
                   "cocoa",
                   "macos",
@@ -1081,7 +1081,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "18800⭐ 552🍴 Quicklook-Plugins",
+              "title": "18801⭐ 551🍴 Quicklook-Plugins",
               "description": ") - List of extra quicklook plugins to enable previewing more filetypes in the Finder.",
               "children": [],
               "repo_info": {
@@ -1095,7 +1095,7 @@
                 "open_issues": 5,
                 "owner": "sindresorhus",
                 "repo": "quick-look-plugins",
-                "stars": 18800,
+                "stars": 18803,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -1123,7 +1123,7 @@
                 "open_issues": 434,
                 "owner": "OpenEmu",
                 "repo": "OpenEmu",
-                "stars": 17865,
+                "stars": 17870,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -1147,11 +1147,11 @@
                 "id": 11577304,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T05:18:14Z",
-                "open_issues": 486,
+                "last_commit": "2026-11-10T21:24:57Z",
+                "open_issues": 491,
                 "owner": "dolphin-emu",
                 "repo": "dolphin",
-                "stars": 15788,
+                "stars": 15798,
                 "topics": [
                   "cpp",
                   "emulation",
@@ -1345,11 +1345,11 @@
                 "id": 91977145,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-10T05:39:13Z",
-                "open_issues": 617,
+                "last_commit": "2026-11-11T04:08:47Z",
+                "open_issues": 618,
                 "owner": "Ranchero-Software",
                 "repo": "NetNewsWire",
-                "stars": 10519,
+                "stars": 10523,
                 "topics": [
                   "feed-reader",
                   "ios",
@@ -1375,7 +1375,7 @@
                 "language": "Objective-C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T14:20:37Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "ViennaRSS",
                 "repo": "vienna-rss",
                 "stars": 1982,
@@ -1428,11 +1428,11 @@
                 "id": 838659679,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-04T13:45:40Z",
+                "last_commit": "2026-11-11T00:45:00Z",
                 "open_issues": 84,
                 "owner": "codexu",
                 "repo": "note-gen",
-                "stars": 12997,
+                "stars": 13002,
                 "topics": [
                   "agent",
                   "ai-notes",
@@ -1467,10 +1467,10 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-04T15:36:06Z",
-                "open_issues": 125,
+                "open_issues": 127,
                 "owner": "leits",
                 "repo": "MeetingBar",
-                "stars": 5399,
+                "stars": 5404,
                 "topics": [
                   "apple",
                   "calendar",
@@ -1503,7 +1503,7 @@
                 "open_issues": 309,
                 "owner": "SelfControlApp",
                 "repo": "selfcontrol",
-                "stars": 4421,
+                "stars": 4422,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -1524,7 +1524,7 @@
                 "open_issues": 73,
                 "owner": "sfsam",
                 "repo": "Itsycal",
-                "stars": 4049,
+                "stars": 4050,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -1631,7 +1631,7 @@
                 "id": 119609777,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T07:02:34Z",
+                "last_commit": "2026-11-10T20:37:04Z",
                 "open_issues": 6,
                 "owner": "PDF-Archiver",
                 "repo": "PDF-Archiver",
@@ -1691,17 +1691,17 @@
             },
             {
               "node_type": "item",
-              "title": "257⭐ 30🍴 Clipbara",
+              "title": "258⭐ 30🍴 Clipbara",
               "description": ") - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "Open-source clipboard manager for macOS and iPhone. Card-style history, Pinboards, Quick Look, and optional iCloud sync. Free DMG and Homebrew builds, one-time purchase on the App Store.",
-                "homepage": "https://apps.apple.com/app/apple-store/id6803537696?pt=129317403&ct=github_about&mt=8",
+                "homepage": "https://clipbara.app",
                 "id": 1169355653,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T03:32:28Z",
+                "last_commit": "2026-11-11T01:58:19Z",
                 "open_issues": 20,
                 "owner": "mobrava",
                 "repo": "Clipbara",
@@ -1738,7 +1738,7 @@
                 "id": 1170906623,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T10:38:02Z",
+                "last_commit": "2026-11-10T10:37:16Z",
                 "open_issues": 3,
                 "owner": "hcmhcs",
                 "repo": "screenTranslate",
@@ -1775,18 +1775,18 @@
                 "id": 35129809,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T22:56:32Z",
-                "open_issues": 904,
+                "last_commit": "2026-11-11T03:00:27Z",
+                "open_issues": 902,
                 "owner": "transmission",
                 "repo": "transmission",
-                "stars": 15406,
+                "stars": 15408,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
             },
             {
               "node_type": "item",
-              "title": "952⭐ 98🍴 mac2imgur",
+              "title": "952⭐ 99🍴 mac2imgur",
               "description": ") - Upload images and screenshots to Imgur.",
               "children": [],
               "repo_info": {
@@ -1830,11 +1830,11 @@
                 "id": 1580036,
                 "language": "Swift",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-10T08:21:43Z",
-                "open_issues": 68,
+                "last_commit": "2026-11-11T08:26:09Z",
+                "open_issues": 67,
                 "owner": "gnachman",
                 "repo": "iTerm2",
-                "stars": 18267,
+                "stars": 18273,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -1848,7 +1848,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "34664⭐ 1038🍴 MonitorControl",
+              "title": "34677⭐ 1041🍴 MonitorControl",
               "description": ") - Control your display's brightness and volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
               "children": [],
               "repo_info": {
@@ -1862,7 +1862,7 @@
                 "open_issues": 30,
                 "owner": "MonitorControl",
                 "repo": "MonitorControl",
-                "stars": 34677,
+                "stars": 34686,
                 "topics": [
                   "apple",
                   "brightness",
@@ -1888,7 +1888,7 @@
             },
             {
               "node_type": "item",
-              "title": "18082⭐ 651🍴 BitBar",
+              "title": "18080⭐ 651🍴 BitBar",
               "description": ") - Display output of any script to the menu bar.",
               "children": [],
               "repo_info": {
@@ -1902,7 +1902,7 @@
                 "open_issues": 188,
                 "owner": "matryer",
                 "repo": "xbar",
-                "stars": 18080,
+                "stars": 18081,
                 "topics": [
                   "bitbar",
                   "mac",
@@ -1917,7 +1917,7 @@
             },
             {
               "node_type": "item",
-              "title": "15358⭐ 939🍴 Mackup",
+              "title": "15359⭐ 939🍴 Mackup",
               "description": ") - Keep your application settings in sync.",
               "children": [],
               "repo_info": {
@@ -1927,18 +1927,18 @@
                 "id": 9265294,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T09:30:59Z",
+                "last_commit": "2026-11-10T16:45:34Z",
                 "open_issues": 292,
                 "owner": "lra",
                 "repo": "mackup",
-                "stars": 15359,
+                "stars": 15360,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
             },
             {
               "node_type": "item",
-              "title": "11304⭐ 1204🍴 Boring Notch",
+              "title": "11330⭐ 1215🍴 Boring Notch",
               "description": ") - Turns your MacBook notch into a dynamic hub with media controls, calendar integration, and more.",
               "children": [],
               "repo_info": {
@@ -1948,11 +1948,11 @@
                 "id": 837073921,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T03:16:19Z",
+                "last_commit": "2026-11-11T03:18:21Z",
                 "open_issues": 430,
                 "owner": "TheBoredTeam",
                 "repo": "boring.notch",
-                "stars": 11326,
+                "stars": 11332,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -1973,7 +1973,7 @@
                 "open_issues": 578,
                 "owner": "MacDownApp",
                 "repo": "macdown",
-                "stars": 9845,
+                "stars": 9846,
                 "topics": [
                   "cocoa",
                   "macos",
@@ -1992,7 +1992,7 @@
             },
             {
               "node_type": "item",
-              "title": "8717⭐ 308🍴 Dozer",
+              "title": "8717⭐ 310🍴 Dozer",
               "description": ") - Hide MacOS menubar items.",
               "children": [],
               "repo_info": {
@@ -2006,7 +2006,7 @@
                 "open_issues": 102,
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8717,
+                "stars": 8718,
                 "topics": [
                   "macos",
                   "minimalistic",
@@ -2018,7 +2018,7 @@
             },
             {
               "node_type": "item",
-              "title": "7687⭐ 448🍴 PureMac",
+              "title": "7729⭐ 453🍴 PureMac",
               "description": ") - Free and open-source macOS cleaner that removes system caches, Xcode junk, Homebrew cache, and more with no telemetry or network calls.",
               "children": [],
               "repo_info": {
@@ -2028,11 +2028,11 @@
                 "id": 1204908370,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-10T04:46:24Z",
+                "last_commit": "2026-11-11T04:46:24Z",
                 "open_issues": 14,
                 "owner": "momenbasel",
                 "repo": "PureMac",
-                "stars": 7725,
+                "stars": 7736,
                 "topics": [
                   "cache-cleaner",
                   "cleanmymac",
@@ -2059,7 +2059,7 @@
             },
             {
               "node_type": "item",
-              "title": "7039⭐ 278🍴 KeepingYouAwake",
+              "title": "7043⭐ 279🍴 KeepingYouAwake",
               "description": ") - Menu bar utility that prevents Mac from going to sleep.",
               "children": [],
               "repo_info": {
@@ -2073,7 +2073,7 @@
                 "open_issues": 35,
                 "owner": "newmarcel",
                 "repo": "KeepingYouAwake",
-                "stars": 7043,
+                "stars": 7044,
                 "topics": [
                   "caffeine",
                   "macos",
@@ -2100,7 +2100,7 @@
                 "open_issues": 297,
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6900,
+                "stars": 6902,
                 "topics": [
                   "autotype",
                   "kdbx",
@@ -2116,7 +2116,7 @@
             },
             {
               "node_type": "item",
-              "title": "6040⭐ 157🍴 AnyBar",
+              "title": "6039⭐ 157🍴 AnyBar",
               "description": ") - A menubar status indicator.",
               "children": [],
               "repo_info": {
@@ -2169,10 +2169,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-28T18:56:51Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "johnste",
                 "repo": "finicky",
-                "stars": 5264,
+                "stars": 5266,
                 "topics": [
                   "browser",
                   "go",
@@ -2202,14 +2202,14 @@
                 "open_issues": 173,
                 "owner": "felixhageloh",
                 "repo": "uebersicht",
-                "stars": 5015,
+                "stars": 5017,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
             },
             {
               "node_type": "item",
-              "title": "4219⭐ 404🍴 RDM",
+              "title": "4217⭐ 404🍴 RDM",
               "description": ") - Easily set Mac Retina display to higher unsupported resolutions.",
               "children": [],
               "repo_info": {
@@ -2230,7 +2230,7 @@
             },
             {
               "node_type": "item",
-              "title": "4005⭐ 83🍴 Wineskin",
+              "title": "4017⭐ 83🍴 Wineskin",
               "description": ") - Run Windows applications and games on your Mac.",
               "children": [],
               "repo_info": {
@@ -2244,7 +2244,7 @@
                 "open_issues": 60,
                 "owner": "Sikarugir-App",
                 "repo": "Sikarugir",
-                "stars": 4016,
+                "stars": 4023,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -2286,7 +2286,7 @@
                 "open_issues": 108,
                 "owner": "yujitach",
                 "repo": "MenuMeters",
-                "stars": 3088,
+                "stars": 3089,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -2328,7 +2328,7 @@
                 "open_issues": 19,
                 "owner": "rlxone",
                 "repo": "Equinox",
-                "stars": 2155,
+                "stars": 2157,
                 "topics": [
                   "app",
                   "appkit",
@@ -2358,7 +2358,7 @@
                 "open_issues": 128,
                 "owner": "scrod",
                 "repo": "nv",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -2407,7 +2407,7 @@
             },
             {
               "node_type": "item",
-              "title": "1542⭐ 114🍴 Kawa",
+              "title": "1541⭐ 115🍴 Kawa",
               "description": ") - A better input source switcher with shortcuts.",
               "children": [],
               "repo_info": {
@@ -2442,11 +2442,11 @@
                 "id": 694254191,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T00:29:05Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-11T07:43:41Z",
+                "open_issues": 77,
                 "owner": "sarensw",
                 "repo": "MacPacker",
-                "stars": 1475,
+                "stars": 1481,
                 "topics": [
                   "7z",
                   "7zip",
@@ -2488,7 +2488,7 @@
                 "open_issues": 232,
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
-                "stars": 1474,
+                "stars": 1476,
                 "topics": [
                   "cocoa",
                   "cryptography",
@@ -2584,7 +2584,7 @@
             },
             {
               "node_type": "item",
-              "title": "1230⭐ 61🍴 SlowQuitApps",
+              "title": "1230⭐ 62🍴 SlowQuitApps",
               "description": ") - Prevent accidental Cmd-Q.",
               "children": [],
               "repo_info": {
@@ -2669,7 +2669,7 @@
             },
             {
               "node_type": "item",
-              "title": "689⭐ 34🍴 Harbor",
+              "title": "693⭐ 34🍴 Harbor",
               "description": ") - Download manager for direct downloads, magnet links, and files.",
               "children": [],
               "repo_info": {
@@ -2680,10 +2680,10 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-08T16:25:50Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "thsnkhn",
                 "repo": "harbor",
-                "stars": 693,
+                "stars": 697,
                 "topics": [
                   "aria2c",
                   "download-manager",
@@ -2710,8 +2710,8 @@
                 "id": 1148084013,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-13T17:01:39Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-10T15:26:37Z",
+                "open_issues": 5,
                 "owner": "nickustinov",
                 "repo": "itsytv-macos",
                 "stars": 659,
@@ -2817,7 +2817,7 @@
             },
             {
               "node_type": "item",
-              "title": "182⭐ 10🍴 Artify",
+              "title": "182⭐ 11🍴 Artify",
               "description": ") - A macOS X application for bringing dedicatedly 18th century Arts to everyone.",
               "children": [],
               "repo_info": {
@@ -2847,7 +2847,7 @@
             },
             {
               "node_type": "item",
-              "title": "124⭐ 20🍴 Sleepless",
+              "title": "127⭐ 20🍴 Sleepless",
               "description": ") - Menu bar utility that keeps your MacBook awake with the lid closed on battery, with a battery-floor auto-off.",
               "children": [],
               "repo_info": {
@@ -2895,11 +2895,11 @@
                 "id": 1293304839,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T13:36:21Z",
+                "last_commit": "2026-11-11T05:14:41Z",
                 "open_issues": 0,
                 "owner": "fatwang2",
                 "repo": "Pulse",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "claudecode",
                   "herdr-layout",
@@ -2991,7 +2991,7 @@
                 "open_issues": 1988,
                 "owner": "iina",
                 "repo": "iina",
-                "stars": 47072,
+                "stars": 47090,
                 "topics": [
                   "hacktoberfest",
                   "macos",
@@ -3015,11 +3015,11 @@
                 "id": 6201092,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T14:12:09Z",
+                "last_commit": "2026-11-10T16:51:57Z",
                 "open_issues": 1169,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 38038,
+                "stars": 38064,
                 "topics": [
                   "audio",
                   "c",
@@ -3044,11 +3044,11 @@
                 "id": 41215835,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T20:22:36Z",
-                "open_issues": 291,
+                "last_commit": "2026-11-10T22:22:45Z",
+                "open_issues": 290,
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24952,
+                "stars": 24967,
                 "topics": [
                   "gplv2",
                   "multi-platform",
@@ -3125,18 +3125,18 @@
                 "id": 193162629,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T21:42:49Z",
-                "open_issues": 65,
+                "last_commit": "2026-11-11T02:22:21Z",
+                "open_issues": 64,
                 "owner": "rxhanson",
                 "repo": "Rectangle",
-                "stars": 30267,
+                "stars": 30269,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
             },
             {
               "node_type": "item",
-              "title": "29815⭐ 814🍴 yabai",
+              "title": "29827⭐ 814🍴 yabai",
               "description": ") - Tiling window manager with focus follows mouse.",
               "children": [],
               "repo_info": {
@@ -3150,7 +3150,7 @@
                 "open_issues": 275,
                 "owner": "asmvik",
                 "repo": "yabai",
-                "stars": 29827,
+                "stars": 29828,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -3171,7 +3171,7 @@
                 "open_issues": 708,
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 16402,
+                "stars": 16409,
                 "topics": [
                   "automation",
                   "hammerspoon",
@@ -3198,10 +3198,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-11-06T01:19:35Z",
-                "open_issues": 290,
+                "open_issues": 272,
                 "owner": "ianyh",
                 "repo": "Amethyst",
-                "stars": 16319,
+                "stars": 16323,
                 "topics": [
                   "mac",
                   "macos",
@@ -3213,7 +3213,7 @@
             },
             {
               "node_type": "item",
-              "title": "4544⭐ 126🍴 Phoenix",
+              "title": "4545⭐ 126🍴 Phoenix",
               "description": ") - A lightweight window and app manager scriptable with JavaScript.",
               "children": [],
               "repo_info": {
@@ -3227,7 +3227,7 @@
                 "open_issues": 48,
                 "owner": "kasper",
                 "repo": "phoenix",
-                "stars": 4545,
+                "stars": 4544,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -3241,7 +3241,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "21236⭐ 1054🍴 Aerial",
+              "title": "21247⭐ 1055🍴 Aerial",
               "description": ") - Apple TV Aerial Screensaver for Mac.",
               "children": [],
               "repo_info": {
@@ -3255,7 +3255,7 @@
                 "open_issues": 18,
                 "owner": "JohnCoates",
                 "repo": "Aerial",
-                "stars": 21246,
+                "stars": 21251,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -3375,7 +3375,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "31091⭐ 1424🍴 Awesome macOS Command Line",
+          "title": "31100⭐ 1424🍴 Awesome macOS Command Line",
           "description": ") - Use your macOS terminal shell to do awesome things.",
           "children": [],
           "repo_info": {
@@ -3389,7 +3389,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31100,
+            "stars": 31102,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3404,7 +3404,7 @@
         },
         {
           "node_type": "item",
-          "title": "12418⭐ 300🍴 mas",
+          "title": "12423⭐ 299🍴 mas",
           "description": ") - A CLI for the Mac App Store.",
           "children": [],
           "repo_info": {
@@ -3418,7 +3418,7 @@
             "open_issues": 89,
             "owner": "mas-cli",
             "repo": "mas",
-            "stars": 12423,
+            "stars": 12427,
             "topics": [
               "app-store",
               "homebrew",
@@ -3433,7 +3433,7 @@
         },
         {
           "node_type": "item",
-          "title": "9920⭐ 315🍴 m-cli",
+          "title": "9918⭐ 315🍴 m-cli",
           "description": ") -  Swiss Army Knife for macOS.",
           "children": [],
           "repo_info": {
@@ -3447,7 +3447,7 @@
             "open_issues": 14,
             "owner": "rgcr",
             "repo": "m-cli",
-            "stars": 9918,
+            "stars": 9919,
             "topics": [
               "bash",
               "cli",
@@ -3475,7 +3475,7 @@
             "open_issues": 0,
             "owner": "guarinogabriel",
             "repo": "Mac-CLI",
-            "stars": 9128,
+            "stars": 9129,
             "topics": [
               "bash",
               "cli",
@@ -3490,7 +3490,7 @@
         },
         {
           "node_type": "item",
-          "title": "1050⭐ 51🍴 CleanMyMac CLI",
+          "title": "1053⭐ 51🍴 CleanMyMac CLI",
           "description": ") - Clean Xcode, Docker, Homebrew, and developer caches, analyze storage, and reclaim disk space from the terminal.",
           "children": [],
           "repo_info": {
@@ -3504,7 +3504,7 @@
             "open_issues": 8,
             "owner": "MacPaw",
             "repo": "cleanmymac-cli",
-            "stars": 1053,
+            "stars": 1055,
             "topics": [
               "ai-tools",
               "analyzer",
@@ -3532,7 +3532,7 @@
         },
         {
           "node_type": "item",
-          "title": "372⭐ 15🍴 Mocker",
+          "title": "373⭐ 16🍴 Mocker",
           "description": ") - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.",
           "children": [],
           "repo_info": {
@@ -3591,7 +3591,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "33910⭐ 1841🍴 Glances",
+          "title": "33928⭐ 1840🍴 Glances",
           "description": ") - System monitoring tool that runs in terminal.",
           "children": [],
           "repo_info": {
@@ -3605,7 +3605,7 @@
             "open_issues": 113,
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33927,
+            "stars": 33935,
             "topics": [
               "monitoring",
               "multi-platform",
@@ -3718,7 +3718,7 @@
                 "open_issues": 1,
                 "owner": "thoughtbot",
                 "repo": "laptop",
-                "stars": 8552,
+                "stars": 8553,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -3746,7 +3746,7 @@
                 "open_issues": 10,
                 "owner": "nicolashery",
                 "repo": "mac-dev-setup",
-                "stars": 5758,
+                "stars": 5759,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:12:07.251Z"
@@ -3799,7 +3799,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "22581⭐ 1472🍴 OS-X-Security-and-Privacy-Guide",
+          "title": "22587⭐ 1472🍴 OS-X-Security-and-Privacy-Guide",
           "description": "drduh/macOS-Security-and-Privacy-Guide",
           "children": [],
           "repo_info": {
@@ -3813,7 +3813,7 @@
             "open_issues": 5,
             "owner": "drduh",
             "repo": "macOS-Security-and-Privacy-Guide",
-            "stars": 22588,
+            "stars": 22589,
             "topics": [
               "apple",
               "checklist",
@@ -3838,7 +3838,7 @@
         },
         {
           "node_type": "item",
-          "title": "4498⭐ 287🍴 santa",
+          "title": "4499⭐ 287🍴 santa",
           "description": ") - A binary whitelisting/blacklisting system.",
           "children": [],
           "repo_info": {
@@ -3882,7 +3882,7 @@
             "open_issues": 60,
             "owner": "Tunnelblick",
             "repo": "Tunnelblick",
-            "stars": 3303,
+            "stars": 3304,
             "topics": []
           },
           "first_seen": "2026-08-28T14:12:07.251Z"
@@ -3942,7 +3942,7 @@
         },
         {
           "node_type": "item",
-          "title": "826⭐ 141🍴 MIDAS",
+          "title": "825⭐ 141🍴 MIDAS",
           "description": ") - Intrusion Detection Analysis System.",
           "children": [],
           "repo_info": {
@@ -4004,11 +4004,11 @@
             "id": 385891121,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T20:18:41Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-11T07:47:30Z",
+            "open_issues": 13,
             "owner": "ParetoSecurity",
             "repo": "pareto-mac",
-            "stars": 463,
+            "stars": 464,
             "topics": [
               "endpoint-security",
               "macos",
@@ -4079,10 +4079,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-11-10T07:49:57Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "ai-agents",
               "amphetamine-alternative",
@@ -4110,7 +4110,7 @@
         },
         {
           "node_type": "item",
-          "title": "131⭐ 2🍴 Raccoon",
+          "title": "132⭐ 2🍴 Raccoon",
           "description": ") - CLI to audit Mac security, system info and manage an SSH fleet of Macs from one machine.",
           "children": [],
           "repo_info": {
@@ -4120,7 +4120,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-09T14:45:05Z",
+            "last_commit": "2026-11-10T12:42:59Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -4149,7 +4149,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "4429⭐ 170🍴 Awesome Screensavers",
+          "title": "4430⭐ 171🍴 Awesome Screensavers",
           "description": "agarrharr/awesome-macos-screensavers",
           "children": [],
           "repo_info": {
@@ -4181,7 +4181,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "19455⭐ 1749🍴 iCHAIT/awesome-macOS",
+          "title": "19468⭐ 1761🍴 iCHAIT/awesome-macOS",
           "description": "iCHAIT/awesome-macOS",
           "children": [],
           "repo_info": {
@@ -4192,10 +4192,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-21T09:12:04Z",
-            "open_issues": 14,
+            "open_issues": 17,
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19467,
+            "stars": 19472,
             "topics": [
               "apple",
               "awesome",
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T09:30:12.853Z",
+    "last_updated": "2026-11-11T09:03:27.303Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS. With up-to-date repository stars⭐ and forks🍴",
@@ -4221,7 +4221,7 @@
       "id": 517292489,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-08T09:45:15Z",
+      "last_commit": "2026-11-10T12:58:03Z",
       "open_issues": 12,
       "owner": "Correia-jpv",
       "repo": "fucking-awesome-macOS",
@@ -4246,7 +4246,7 @@
         "macos-applications"
       ]
     },
-    "original_repository_sha": "52c31ca0bfa2f2e6c99333c664200170abae214e",
+    "original_repository_sha": "0b615429c7d4d0bd84190378f6605fb5dfe7ef27",
     "enhanced_repository": "enhansome/fucking-enhansome-macOS",
     "enhanced_repository_description": null,
     "title": "Awesome fucking awesome macOS with stars"
